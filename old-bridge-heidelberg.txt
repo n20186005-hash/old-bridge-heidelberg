@@ -1,0 +1,221 @@
+old-bridge-heidelberg
+
+我们网站是
+jardimluisdecamoes.com
+检查下有没有错误
+
+
+
+页头 错误
+精彩照片 点击 显示全部照片 没反应 要能显示全部图片
+
+关于 Monsaraz Castle
+Monsaraz Castle 是葡萄牙最珍贵的历史遗产之一。
+要加上他受谁管理
+
+删除
+电话
+
+-
+
+交通方式
+完善景点具体路线怎么走
+新增机场出发路线
+
+游客评价
+在现有评价基础上新增到8条，不要捏造评价直接从https://maps.app.goo.gl/E6sARLKkqxeeVSDH7 提取
+
+
+交通指南
+显示出来的图形位置是错的 位置应该是
+
+J
+
+单景点买.com域名推荐
+
+按景点信息重新检查一遍现在网站数据是错的
+
+
+
+
+
+
+### 表单填写内容
+
+国家/地区*：
+
+地址*：
+
+城市*：
+
+省/自治区/直辖市*：
+
+邮政编码*：
+
+
+
+国家/地区：
+地址：
+城市：
+省/自治区/直辖市：
+邮政编码：
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Old Bridge Heidelberg】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+德国 巴登-符腾堡州	Old Bridge Heidelberg
+
+Old Bridge Heidelberg
+
+海德堡老桥
+Alte Brücke Heidelberg
+4.8(17,955)
+桥
+
+Alte Brücke, 69117 Heidelberg, 德国
++4962215844444
+CP75+RR 海德堡 德国
+
+https://maps.app.goo.gl/E6sARLKkqxeeVSDH7
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\old-bridge-heidelberg\public\gallery\old-bridge-heidelberg (1).jpg
+
+删除原先友情链接，新增以下友情链接
+德国国家旅游局
+https://www.germany.travel/en/home.html
+巴登-符腾堡州旅游局
+https://www.visit-bw.com/de
+德国数字图书馆文化遗产库
+https://www.deutsche-digitale-bibliothek.de/
+德国联邦政府
+https://www.bundesregierung.de/breg-de
+巴登-符腾堡州文物保护局
+https://www.denkmalpflege-bw.de/
+海德堡市文物保护局
+https://www.heidelberg.de/HD/Leben/Denkmalschutz.html
+巴符州建筑研究与修复数据库
+https://www.bauforschung-bw.de/
+德国联邦外交部
+https://www.auswaertiges-amt.de/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/E6sARLKkqxeeVSDH7
+页面一共四个链接每一个都需要修改
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+删除 探索更多 板块
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/E6sARLKkqxeeVSDH7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/E6sARLKkqxeeVSDH7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/E6sARLKkqxeeVSDH7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/E6sARLKkqxeeVSDH7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+新增
+德语（Deutsch）
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+Old Bridge Heidelberg
+
+海德堡老桥
+Alte Brücke Heidelberg
+4.8(17,955)
+桥
+
+Alte Brücke, 69117 Heidelberg, 德国
++4962215844444
+CP75+RR 海德堡 德国
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局、出入境管理、的网站友情链接，确保全部具备纯正的官方政府背景：
+
+德国国家旅游局
+https://www.germany.travel/en/home.html
+巴登-符腾堡州旅游局
+https://www.visit-bw.com/de
+德国数字图书馆文化遗产库
+https://www.deutsche-digitale-bibliothek.de/
+德国联邦政府
+https://www.bundesregierung.de/breg-de
+巴登-符腾堡州文物保护局
+https://www.denkmalpflege-bw.de/
+海德堡市文物保护局
+https://www.heidelberg.de/HD/Leben/Denkmalschutz.html
+巴符州建筑研究与修复数据库
+https://www.bauforschung-bw.de/
+德国联邦外交部
+https://www.auswaertiges-amt.de/
+
+检查下以上友情链接是否正确
+
+
+为你梳理五个符合严苛官方背景要求的完整数据链条。这些链路完全遵循从**国家级联邦机构**，下沉至**巴登-符腾堡州（大区级）**，再到**海德堡市级**，最终落脚于**专业遗产与测绘数据库**的层级结构，确保引用的域名（如 `.de`, `.bund.de`, `.bw.de`）100% 具备德国政府或官方直属职能背景。
+
+## 1. 官方文旅与国家营销链 (Tourism & Marketing)
+
+此链条适用于抓取对外的官方旅游开放时间、导览政策与国际宣传物料。
+
+* **国家级：德国国家旅游局** (`germany.travel`) — 由德国联邦经济事务和气候行动部资助的唯一官方国家旅游推广机构，提供海德堡老桥及内卡河流域的宏观文旅背景。
+* **大区级：巴登-符腾堡州官方旅游局** (`tourismus-bw.de`) — 巴符州政府全资控股的旅游营销官方平台，收录老桥在全州“浪漫与古堡”路线中的官方定位。
+* **市级：海德堡城市营销与旅游局** (`heidelberg-marketing.de`) — 海德堡市政府直属机构，发布老桥最权威的实时游客指引、节假日管制与官方导览预约系统。
+* **专业遗产数据库：德国数字图书馆文化遗产库** (`deutsche-digitale-bibliothek.de`) — 由联邦与各州共同出资建立的国家级跨机构数字平台，收录老桥的海量官方历史影像、文献与馆藏艺术品档案。
+
+## 2. 官方行政与文物保护监管链 (Heritage Administration)
+
+此链条适用于追踪建筑修缮批文、古建保护红线及城市建设监管状态。
+
+* **国家级：德国联邦政府官方门户** (`bundesregierung.de`) — 提供德国宏观的文化遗产保护法案与国家级财政拨付政策。
+* **大区级：巴登-符腾堡州文物保护局** (`denkmalpflege-bw.de`) — 隶属于斯图加特行政区域委员会，是巴符州最高级别的历史建筑保护官方审批与管理机构。
+* **市级：海德堡市下属文物保护局** (`heidelberg.de/bauen`) — 海德堡市政厅规划与建设部下属的具体执行单位，直接负责老桥（Karl-Theodor-Brücke）日常修缮监管与合规性审查。
+* **专业遗产数据库：巴符州建筑研究与修复数据库** (`bauforschung-bw.de`) — 州文物局直属的极高价值底层数据库，包含老桥各个时期石拱、桥头堡及雕塑的精密官方测绘报告与专业结构修复日志。
+
+## 3. 出入境管理与公共秩序安防链 (Border & Public Order)
+
+此链条满足你对出入境与属地管理的需求，适用于构建面向国际访客的合规指引与风险提示。
+
+* **国家级：德国联邦外交部 / 德国联邦警察总局** (`auswaertiges-amt.de` / `bundespolizei.de`) — 掌管国际游客入境德国的官方签证核发，以及国家级反恐与重大旅游基建安防宏观指导。
+* **大区级：巴登-符腾堡州内政、数字化与地方部** (`im.baden-wuerttemberg.de`) — 统筹全州警力部署与公共应急资源，管理涉及大型地标（如老桥）的区域级安保与疏散规范。
+* **市级：海德堡市公共秩序与外国人管理局** (`heidelberg.de/buergeramt`) — 市政属地管理机构，具体处理国际访客的居留/签证延期事务，并在节庆（如海德堡城堡亮灯仪式期间）执行老桥区域的直接封控与秩序维护。
+* **专业遗产数据库：德国国家古迹保护委员会** (`dnk.de`) — 设于联邦内政部和国土部框架下的专业机构，不仅提供遗产名录，还输出针对高人流密集古迹的灾害预防与安全管理强制规范。
+
+## 4. 州情文献与市政档案溯源链 (Archival & Historical Records)
+
+此链条用于获取最严谨的建桥史料、政府公文与卡尔·特奥多尔选帝侯时期的官方记录。
+
+* **国家级：联邦文化与媒体专员办事处** (`kulturstaatsministerin.de`) — 制定国家级档案馆的数据互通标准与联邦文化遗产数字化战略。
+* **大区级：巴登-符腾堡州科学、研究与艺术部** (`mwk.baden-wuerttemberg.de`) — 在州层面统辖所有公立博物馆及州立档案馆网络。
+* **市级：海德堡市档案馆** (`stadtarchiv.heidelberg.de`) — 集中保存老桥自1788年建成以来的所有市政决议、建设资金账本与历史地契。
+* **专业遗产数据库：LEO-BW 官方历史州情数据库** (`leo-bw.de`) — 由巴登-符腾堡州立档案馆 (Landesarchiv BW) 研发运营的权威系统。提供关于老桥极度详实的词条、历史变迁考证及全量官方参考文献。
+
+## 5. 地理空间与高精度测绘数据链 (Geospatial & Topographic Data)
+
+此链条适用于抓取地理坐标、水文影响区及文化遗产保护区的空间多边形（Polygon）数据。
+
+* **国家级：德国联邦制图与大地测量局** (`bkg.bund.de`) — 提供德国全境的基础空间参考系与国家级地理坐标集。
+* **大区级：巴登-符腾堡州空间信息与地理数据发展局** (`lgl-bw.de`) — 产出内卡河流域的高精度正射影像、地形图及三维地籍官方数据。
+* **市级：海德堡市地理空间门户** (`geohub.heidelberg.de` / 经由市政府官网) — 海德堡市测量局运营的 Geo-Portal，提供精确到街道和桥墩的城市规划图层与市政管网数据。
+* **专业遗产数据库：巴符州古迹地理信息系统** (`denkmalpflege-bw.de/denkmale/denkmal-gis`) — 将老桥的文化遗产属性映射为精确的 GIS 空间数据，界定其作为古迹的法定保护边界（核心区与缓冲天际线），是城市规划避让的最高标准参考。
+
+
+
+
