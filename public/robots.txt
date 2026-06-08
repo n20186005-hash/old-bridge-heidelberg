@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://monsarazcastle.com/sitemap.xml
+Sitemap: https://oldbridgeheidelberg.com/sitemap.xml

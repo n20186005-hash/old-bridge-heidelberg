@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://jardimluisdecamoes.com';
+  const baseUrl = 'https://oldbridgeheidelberg.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
@@ -51,7 +51,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Jardim Luís de Camões",
+      siteName: "Old Bridge Heidelberg",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },
