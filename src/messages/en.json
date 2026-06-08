@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "title": "Old Bridge Heidelberg | Alte Brücke Heidelberg",
+    "description": "Explore the complete guide to Old Bridge Heidelberg in Baden-Württemberg, Germany."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Old Bridge Heidelberg",
+    "subtitle": "Heidelberg · Germany",
+    "rating": "4.8",
+    "reviewCount": "17,955",
+    "hours": "Open 24 Hours",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Old Bridge Heidelberg",
+    "description": "The Old Bridge (Alte Brücke Heidelberg) is a famous historical stone bridge over the Neckar River in Heidelberg, Baden-Württemberg, Germany. As one of Heidelberg's landmarks, it not only holds great historical value but also offers visitors the perfect vantage point to admire Heidelberg Castle and the old town.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Free and open all day, visit anytime for a walk or photography",
+        "Early morning or late afternoon is recommended for the best lighting",
+        "Dress warmly as it can be windy on the bridge",
+        "Plenty of cafes and traditional German restaurants nearby"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Historical Architecture: An iconic stone bridge over the Neckar River with a rich history and exquisite sculptures.",
+        "Perfect Vantage Point: Offers a perfect panoramic view of Heidelberg Castle and the old town.",
+        "Central Location: Adjacent to Heidelberg's old town, within walking distance to multiple surrounding attractions."
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Jardim Luís de Camões",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Memorial Significance",
+        "content": "This garden was established by the city of Leiria as an urban space to pay tribute to the Portuguese literary giant Luís de Camões, with his bronze statue acting as the centerpiece."
+      },
+      {
+        "id": "architecture",
+        "title": "Landscaping",
+        "content": "The garden features a delicate design with neatly trimmed greenery, a classical-style fountain, and relaxing benches that blend harmoniously with the surrounding urban architecture."
+      },
+      {
+        "id": "experience",
+        "title": "Relaxing Experience",
+        "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Alte Brücke Heidelberg",
+    "type": "Attraction Type",
+    "typeValue": "Bridge",
+    "country": "Country",
+    "countryValue": "Germany",
+    "city": "City",
+    "cityValue": "Heidelberg",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Alte Brücke, 69117 Heidelberg, Germany",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "CP75+RR Heidelberg Germany"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Entire Garden",
+    "outdoorTime": "Free and open all day, no ticketed indoor pavilions, no seasonal restrictions",
+    "lighthouse": "Nearby Attractions",
+    "summer": "Leiria Castle",
+    "summerTime": "Usually 09:30-17:30 (subject to official castle announcements)",
+    "winter": "Museum of Leiria",
+    "winterTime": "Usually 09:30-17:30 (Closed on Mondays)",
+    "warning": "Fountain & Statue Area",
+    "warningTime": "Open all day for viewing",
+    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Jardim Luís de Camões",
+    "outdoorPrice": "Free all day",
+    "lighthouse": "Nearby Paid Attractions",
+    "adults": "Leiria Castle",
+    "adultsPrice": "Requires an admission ticket",
+    "students": "Nearby Museums",
+    "studentsPrice": "Fees apply according to each venue's rules",
+    "children": "Parking Fees",
+    "childrenPrice": "Paid street parking is available around the garden, a 1-2 minute walk away",
+    "card": "Transport Tip",
+    "cardPrice": "Located in the city center, walking distance to nearby dining and shopping areas"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest International Airports: Lisbon LIS Airport (approx. 140 km, 1.5 hours drive), Porto OPO Airport (approx. 200 km, 2 hours drive).",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Lisbon, take the A8 or A1 highway north directly to Leiria. Set your GPS to Largo 5 de Outubro 48, and find paid street parking nearby.",
+    "bus": "Public Transport",
+    "busDesc": "Direct intercity buses (Rede Expressos) and trains run from both Lisbon and Porto to Leiria. From the Leiria station, the garden is easily reachable on foot.",
+    "intercity": "Short-Distance Travel",
+    "intercityDesc": "Attractions in downtown Leiria are close together; Castelo de Leiria is just a 5-minute walk from the garden.",
+    "cycling": "Cycling",
+    "cyclingDesc": "The coastal areas around Leiria (such as Nazaré and São Pedro de Moel) are great for road cycling.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Leiria is centrally located in Portugal, close to the Atlantic coast, Óbidos Castle, and Batalha Monastery, making it an excellent hub for exploring the central region."
+  },
+  "route": {
+    "title": "Visiting Route",
+    "overview": "Heidelberg Old Town Walking Route",
+    "steps": [
+      "Arrive at Jardim Luís de Camões to admire the Camões statue and fountain",
+      "Take a break on a garden bench and enjoy the urban greenery",
+      "Walk to Leiria's old town to explore local cafes and craft shops",
+      "Take a 5-minute walk up to the majestic Castelo de Leiria",
+      "Visit the nearby Leiria Cathedral or local museums",
+      "Taste traditional Central Portugal cuisine in the old town"
+    ],
+    "supplements": [
+      "The garden is an open space, no reservations needed",
+      "Pay attention to parking meters and time limits on surrounding streets",
+      "Leiria Castle is located on a hill, requiring an uphill walk"
+    ],
+    "supplementsTitle": "Visiting Notes"
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Old Bridge Statues",
+        "desc": "Capture the iconic bronze statues with the old town in the background"
+      },
+      {
+        "name": "Fountain and Greenery",
+        "desc": "Use the water features and manicured shrubs as foregrounds for fresh garden shots"
+      },
+      {
+        "name": "Relaxation Benches",
+        "desc": "Capture the laid-back daily life of the locals"
+      },
+      {
+        "name": "Distant View of Heidelberg Castle",
+        "desc": "Look up at the majestic Heidelberg Castle from the bridge"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Morning sunlight filtering through the leaves onto the statue creates the best lighting for photography."
+  },
+  "hotels": {
+    "title": "Accommodation Suggestions",
+    "hotels": [
+      {
+        "name": "Downtown Boutique Hotels",
+        "desc": "Just steps away from the garden and castle, extremely convenient",
+        "price": "Ideal for those who love a city vibe"
+      },
+      {
+        "name": "Old Town Cozy Apartments",
+        "desc": "Equipped with kitchens, surrounded by restaurants and supermarkets",
+        "price": "Great for families or extended stays"
+      },
+      {
+        "name": "Coastal Resorts (e.g., near Nazaré)",
+        "desc": "About a 30-minute drive from Leiria, offering Atlantic ocean views",
+        "price": "Perfect for drivers seeking a beach holiday experience"
+      }
+    ],
+    "supplements": "Accommodation Notes",
+    "supplementsContent": "There are numerous highly-rated local restaurants around Heidelberg where you can taste traditional German cuisine.",
+    "supplementsTitle": "Local Cuisine"
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Charming Scenery of Old Bridge Heidelberg",
+    "captions": [
+      "Camões Statue",
+      "Garden Fountain",
+      "Manicured Shrubs",
+      "Leiria Castle View",
+      "Shaded Walking Path",
+      "Urban Oasis",
+      "Leiria Old Town Streets",
+      "Local Cafe",
+      "Sunlit Bench",
+      "Garden Flowers",
+      "City Square",
+      "Portuguese Cobblestones",
+      "Garden at Dusk",
+      "Leiria Cathedral",
+      "Monument Details",
+      "Quiet Afternoon",
+      "Cityscape",
+      "Historical Architecture",
+      "Water Feature",
+      "Locals Relaxing"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "João Silva",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A wonderful, well-preserved urban garden! The cobblestone paths and statues are full of history. Walking here is very relaxing. Highly recommend coming at sunset."
+      },
+      {
+        "name": "Maria Costa",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "One of the most beautiful leisure spots in Leiria! The tranquility here is so relaxing, and the surrounding greenery is gorgeous. Be careful in summer as it can get hot, bring water and sunscreen."
+      },
+      {
+        "name": "Carlos Rodrigues",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "An amazing place. The garden isn't huge, but the location is perfect. Had a great traditional Portuguese meal at a nearby restaurant. The only issue is finding parking during peak season."
+      },
+      {
+        "name": "Ana Martins",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A very romantic and charming place. We walked around here and the night view is absolutely stunning. Completely fell in love with it!"
+      },
+      {
+        "name": "Pedro Santos",
+        "date": "1 year ago",
+        "rating": 5,
+        "text": "The scenery here really lifts your mood. You can see the exquisite statue blending with the wide square. The garden itself is charming with many cafes around."
+      },
+      {
+        "name": "Teresa Ferreira",
+        "date": "Over 6 months ago",
+        "rating": 4,
+        "text": "Well worth a visit! It's very easy to walk here from Leiria Castle. Recommend wearing flat shoes due to the cobblestone paths. Locals are friendly, great spots for photos."
+      },
+      {
+        "name": "Rui Almeida",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Feels like stepping back in time! Every path and fountain has its story. Resting on a bench makes you feel like time has stopped. A must-visit in Leiria."
+      },
+      {
+        "name": "Catarina Gomes",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Beautiful beyond words. Whether it's the Camões statue or the green vegetation, you won't want to leave. Highly recommend sitting by the fountain, it feels amazing."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Transportation Guide",
+    "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Old Bridge Heidelberg. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "germany_travel": {
+        "name": "German National Tourist Board",
+        "url": "https://www.germany.travel/en/home.html"
+      },
+      "bw_tourism": {
+        "name": "Baden-Württemberg Tourism",
+        "url": "https://www.visit-bw.com/de"
+      },
+      "digital_library": {
+        "name": "German Digital Library",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      },
+      "bundesregierung": {
+        "name": "Federal Government of Germany",
+        "url": "https://www.bundesregierung.de/breg-de"
+      },
+      "denkmalpflege": {
+        "name": "State Office for Monument Preservation BW",
+        "url": "https://www.denkmalpflege-bw.de/"
+      },
+      "heidelberg_denkmal": {
+        "name": "Heidelberg Monument Protection",
+        "url": "https://www.heidelberg.de/HD/Leben/Denkmalschutz.html"
+      },
+      "bauforschung": {
+        "name": "Building Research Database BW",
+        "url": "https://www.bauforschung-bw.de/"
+      },
+      "auswaertiges": {
+        "name": "Federal Foreign Office",
+        "url": "https://www.auswaertiges-amt.de/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Jardim Luís de Camões",
+    "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
+  }
+}

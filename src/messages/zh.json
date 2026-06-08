@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "title": "海德堡老桥 | Old Bridge Heidelberg",
+    "description": "探索德国巴登-符腾堡州的海德堡老桥 (Alte Brücke Heidelberg)。了解这座历史悠久的桥梁及其周边景点。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Old Bridge Heidelberg",
+    "subtitle": "海德堡 · 德国",
+    "rating": "4.8",
+    "reviewCount": "17,955",
+    "hours": "全天开放",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Old Bridge Heidelberg",
+    "description": "海德堡老桥 (Alte Brücke Heidelberg) 位于德国巴登-符腾堡州海德堡，是内卡河上的一座著名历史石桥。作为海德堡的地标之一，这里不仅拥有极高的历史价值，也是游客欣赏海德堡城堡和老城美景的绝佳位置。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "全天免费开放，随时可以前往散步或拍照",
+        "建议清晨或傍晚前往，光线最适合拍摄风景和人像",
+        "桥上风大时请注意保暖",
+        "周边有很多咖啡馆和传统德国餐厅可供选择"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "历史建筑：内卡河上的标志性石桥，拥有悠久的历史和精美的雕塑。",
+        "绝佳视角：在桥上可以完美欣赏海德堡城堡和老城的全景。",
+        "核心位置：紧邻海德堡老城，步行即可到达周边多个景点。"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "发现路易斯·德·卡蒙斯花园的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "纪念意义",
+        "content": "这座花园是莱里亚市为了向葡萄牙文学巨匠路易斯·德·卡蒙斯致敬而设立的城市空间，其核心的青铜雕像成为了花园的标志。"
+      },
+      {
+        "id": "architecture",
+        "title": "园林景观",
+        "content": "花园内部设计精巧，绿植修剪整齐，配有古典风格的喷泉和休闲长椅，与周围的城市建筑和谐相融。"
+      },
+      {
+        "id": "experience",
+        "title": "休闲体验",
+        "content": "在游览完雄伟的莱里亚城堡后，这里是完美的放松地点。您可以坐在长椅上聆听喷泉的水声，感受莱里亚的慢节奏生活。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Alte Brücke Heidelberg",
+    "type": "景点类型",
+    "typeValue": "桥",
+    "country": "国家",
+    "countryValue": "德国",
+    "city": "城市",
+    "cityValue": "海德堡 (Heidelberg)",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "Alte Brücke, 69117 Heidelberg, 德国",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "CP75+RR 海德堡 德国"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "花园全域",
+    "outdoorTime": "全天免费开放，无内部收费展馆，无分季节限制",
+    "lighthouse": "周边景点",
+    "summer": "莱里亚城堡",
+    "summerTime": "通常为 09:30-17:30（具体以城堡官方公告为准）",
+    "winter": "莱里亚博物馆",
+    "winterTime": "通常为 09:30-17:30（周一闭馆）",
+    "warning": "喷泉与雕像区",
+    "warningTime": "全天开放供游客观赏",
+    "tip": "清晨和傍晚是花园最宁静的时刻，适合散步和拍照"
+  },
+  "tickets": {
+    "title": "门票价格",
+    "outdoor": "Jardim Luís de Camões",
+    "outdoorPrice": "全天免费开放",
+    "lighthouse": "周边付费景点",
+    "adults": "莱里亚城堡",
+    "adultsPrice": "需购买门票进入",
+    "students": "周边博物馆",
+    "studentsPrice": "根据各场馆规定收费",
+    "children": "停车费",
+    "childrenPrice": "花园周边街道设有付费停车位，步行 1-2 分钟即可到达",
+    "card": "交通建议",
+    "cardPrice": "位于市中心，步行即可轻松抵达周边餐饮与购物区"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "就近国际机场：里斯本 LIS 机场（约 140 公里，车程 1 小时 30 分）、波尔图 OPO 机场（约 200 公里，车程 2 小时）。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "从里斯本出发沿 A8 或 A1 高速向北行驶可直达莱里亚。导航目的地设为 Largo 5 de Outubro 48，可在附近街道寻找付费停车位。",
+    "bus": "公共交通",
+    "busDesc": "里斯本和波尔图均有直达莱里亚的城际巴士（Rede Expressos）和火车，抵达莱里亚车站后，步行即可轻松到达花园。",
+    "intercity": "短途出行",
+    "intercityDesc": "莱里亚市中心景点集中，从花园步行 5 分钟即可到达莱里亚城堡。",
+    "cycling": "骑行",
+    "cyclingDesc": "莱里亚及周边沿海地区（如纳扎雷、圣佩德罗迪莫埃尔）适合公路骑行。",
+    "tips": "出行建议",
+    "tipsDesc": "莱里亚位于葡萄牙中部，周边有大西洋海岸、奥比多斯城堡、巴塔利亚修道院等著名景点，建议作为中部旅行的中转站。"
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "海德堡老城休闲步行路线",
+    "steps": [
+      "抵达 Jardim Luís de Camões，欣赏卡蒙斯雕像与喷泉",
+      "在花园长椅上小憩，感受城市中心的绿意",
+      "步行前往莱里亚老城区，探索当地的咖啡馆和手工艺品店",
+      "步行 5 分钟前往参观雄伟的莱里亚城堡（Castelo de Leiria）",
+      "游览周边的莱里亚大教堂或当地博物馆",
+      "在老城区品尝葡萄牙中部特色美食"
+    ],
+    "supplements": [
+      "花园为开放空间，无需预约即可游览",
+      "周边街道停车需注意付费标志和时长限制",
+      "莱里亚城堡位于高处，步行前往需经过一段上坡路"
+    ],
+    "supplementsTitle": "游览须知"
+  },
+  "photoSpots": {
+    "title": "拍照机位",
+    "spots": [
+      {
+        "name": "老桥铜像",
+        "desc": "拍摄标志性铜像及背景的老城建筑"
+      },
+      {
+        "name": "花园喷泉与绿植",
+        "desc": "利用水景和修剪整齐的灌木作为前景，拍摄清新的园林风光"
+      },
+      {
+        "name": "花园休闲长椅区",
+        "desc": "捕捉当地人闲适的日常生活画面"
+      },
+      {
+        "name": "远眺海德堡城堡",
+        "desc": "从桥上仰望雄伟的海德堡城堡"
+      }
+    ],
+    "tips": "拍照补充说明",
+    "tipsContent": "清晨的阳光透过树叶洒在雕像上，是拍摄花园的最佳时机。"
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": [
+      {
+        "name": "莱里亚市中心精品酒店",
+        "desc": "距离花园和城堡仅步遥之遥，出行极度便利",
+        "price": "适合喜欢城市氛围的游客"
+      },
+      {
+        "name": "老城区舒适公寓",
+        "desc": "配备厨房设施，周边餐饮和超市配套完善",
+        "price": "适合家庭或长途旅行者"
+      },
+      {
+        "name": "周边沿海度假村（如纳扎雷附近）",
+        "desc": "距离莱里亚约半小时车程，可享受大西洋海景",
+        "price": "适合自驾且追求度假体验的游客"
+      }
+    ],
+    "supplements": "住宿补充说明",
+    "supplementsContent": "海德堡周边有众多极高评价的本地风味餐馆，可以品尝传统德国美食。",
+    "supplementsTitle": "本地美食"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "海德堡老桥的迷人风光",
+    "captions": [
+      "卡蒙斯雕像",
+      "花园喷泉",
+      "修剪整齐的灌木",
+      "莱里亚城堡远景",
+      "休闲的林荫小道",
+      "城市绿洲",
+      "莱里亚老城街道",
+      "当地特色咖啡馆",
+      "阳光下的长椅",
+      "花园花卉",
+      "城市广场",
+      "葡萄牙特色碎石路",
+      "傍晚的花园",
+      "莱里亚大教堂",
+      "纪念碑细节",
+      "静谧的午后",
+      "城市景观",
+      "历史建筑风貌",
+      "喷泉水景",
+      "市民休闲时光"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "João Silva",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "一个绝妙的保存完好的城市花园！石板路和雕像充满了历史感，在这里散步感觉非常放松。强烈推荐日落时分来这里。"
+      },
+      {
+        "name": "Maria Costa",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "莱里亚最美的休闲去处之一！这里的宁静让人放松，周围的绿植非常漂亮。不过要注意，夏天去的时候会有些热，记得带水和防晒。"
+      },
+      {
+        "name": "Carlos Rodrigues",
+        "date": "3个月前",
+        "rating": 4,
+        "text": "令人惊叹的地方。花园虽然不大，但位置绝佳。在附近的餐厅吃了一顿非常棒的传统葡萄牙菜。唯一的问题是停车位在旺季可能不太好找。"
+      },
+      {
+        "name": "Ana Martins",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "非常浪漫且充满魅力的地方。我们在这里散步，晚上看夜景简直是一绝，完全爱上了这里！"
+      },
+      {
+        "name": "Pedro Santos",
+        "date": "1年前",
+        "rating": 5,
+        "text": "这里的景色真的让人心情愉悦。你能看到精美的雕像和广阔的广场交织在一起。花园本身也很迷人，周围有很多咖啡馆。"
+      },
+      {
+        "name": "Teresa Ferreira",
+        "date": "半年多前",
+        "rating": 4,
+        "text": "很值得一游！从莱里亚城堡走过来很方便。建议穿平底鞋，因为全是鹅卵石路。当地人很友好，有很多适合拍照的绝佳地点。"
+      },
+      {
+        "name": "Rui Almeida",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "仿佛回到了古典时期！每一条小路、每一处喷泉都有它的故事。在长椅上休息的时候感觉时间都静止了。莱里亚的必去之地。"
+      },
+      {
+        "name": "Catarina Gomes",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "美得难以用语言形容。无论是卡蒙斯雕像还是周围绿色的植被，都让人流连忘返。特别推荐坐在喷泉旁边，虽然偶尔有水花，但感觉最棒。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, 葡萄牙",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Old Bridge Heidelberg. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "germany_travel": {
+        "name": "德国国家旅游局",
+        "url": "https://www.germany.travel/en/home.html"
+      },
+      "bw_tourism": {
+        "name": "巴登-符腾堡州旅游局",
+        "url": "https://www.visit-bw.com/de"
+      },
+      "digital_library": {
+        "name": "德国数字图书馆文化遗产库",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      },
+      "bundesregierung": {
+        "name": "德国联邦政府",
+        "url": "https://www.bundesregierung.de/breg-de"
+      },
+      "denkmalpflege": {
+        "name": "巴登-符腾堡州文物保护局",
+        "url": "https://www.denkmalpflege-bw.de/"
+      },
+      "heidelberg_denkmal": {
+        "name": "海德堡市文物保护局",
+        "url": "https://www.heidelberg.de/HD/Leben/Denkmalschutz.html"
+      },
+      "bauforschung": {
+        "name": "巴符州建筑研究与修复数据库",
+        "url": "https://www.bauforschung-bw.de/"
+      },
+      "auswaertiges": {
+        "name": "德国联邦外交部",
+        "url": "https://www.auswaertiges-amt.de/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对治疗，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按“现状”提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年5月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "officialManagement": {
+    "title": "关于 Jardim Luís de Camões",
+    "text": "Jardim Luís de Camões 是莱里亚市中心的一座重要纪念花园，由莱里亚市议会（Câmara Municipal de Leiria）管理与维护。"
+  }
+}
