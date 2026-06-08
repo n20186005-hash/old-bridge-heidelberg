@@ -25,14 +25,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Jardim+Lu%C3%ADs+de+Cam%C3%B5es,+Leiria,+Portugal&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=Alte+Br%C3%BCcke,+Heidelberg,+Germany&t=&z=15&ie=UTF8&iwloc=&output=embed"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Jardim Luís de Camões"
+            title="Google Maps - Alte Brücke Heidelberg"
           />
         </div>
 
