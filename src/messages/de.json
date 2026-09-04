@@ -1,10 +1,12 @@
 {
   "meta": {
-    "title": "Alte Brücke Heidelberg | Reiseführer",
-    "description": "Entdecken Sie die Alte Brücke Heidelberg in Baden-Württemberg, Deutschland."
+    "title": "Alte Brücke Heidelberg & Top Sehenswürdigkeiten | Reiseführer 2026",
+    "description": "Entdecken Sie die Alte Brücke Heidelberg, das Schloss & den Königstuhl. Alle Infos zu Öffnungszeiten, Fotospots, Geschichte & Highlights für Ihren Besuch!",
+    "ogImageAlt": "Alte Brücke (Old Bridge Heidelberg) – Panorama über den Neckar in Heidelberg, Deutschland"
   },
   "header": {
     "home": "Startseite",
+    "sights": "Sehenswürdigkeiten",
     "gallery": "Galerie",
     "reviews": "Bewertungen",
     "map": "Karte",
@@ -14,20 +16,21 @@
     "title": "Old Bridge Heidelberg",
     "subtitle": "Heidelberg · Deutschland",
     "rating": "4.8",
-    "reviewCount": "17,955",
+    "reviewCount": "18.345",
     "hours": "24 Stunden geöffnet",
-    "openMaps": "Standort ansehen"
+    "openMaps": "Standort ansehen",
+    "imageAlt": "Alte Brücke (Old Bridge Heidelberg) – Panorama über den Neckar in Heidelberg, Deutschland"
   },
   "intro": {
     "title": "Entdecken Sie die Alte Brücke Heidelberg",
-    "description": "Die Alte Brücke (Alte Brücke Heidelberg) ist eine berühmte historische Steinbrücke über den Neckar in Heidelberg, Baden-Württemberg, Deutschland. Als eines der Wahrzeichen Heidelbergs hat sie nicht nur einen großen historischen Wert, sondern bietet Besuchern auch den perfekten Aussichtspunkt, um das Heidelberger Schloss und die Altstadt zu bewundern.",
+    "description": "Willkommen an der Alten Brücke Heidelberg (Old Bridge Heidelberg) – der legendären Steinbrücke über den Neckar im Herzen von Heidelberg, Baden-Württemberg, Deutschland. Als zentraler Anlaufpunkt der Stadt verbindet sie die Altstadt mit dem Philosophenweg und ist der ideale Ausgangspunkt für Besuche des Heidelberger Schlosses, des Königstuhls und der Hauptstraße. Auf dem Altstadt-Brückenkopf stehen das barocke Brückentor mit seinen Doppeltürmen und der berühmte Brückenaffe – von der Brückenmitte bietet sich einer der schönsten Blicke auf Fluss und Schloss.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Tipps für Ihren Besuch",
       "items": [
-        "Rund um die Uhr kostenlos zugänglich, jederzeit für einen Spaziergang oder Fotos geöffnet",
+        "Rund um die Uhr kostenlos zugänglich – jederzeit für einen Spaziergang oder Fotos geöffnet",
         "Frühmorgens oder am späten Nachmittag für das beste Licht empfohlen",
         "Ziehen Sie sich warm an, da es auf der Brücke windig sein kann",
-        "Viele Cafés und traditionelle deutsche Restaurants in der Nähe"
+        "Viele Cafés und traditionelle deutsche Restaurants befinden sich direkt in der Altstadt"
       ]
     },
     "alsoKnownAs": {
@@ -40,22 +43,22 @@
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Jardim Luís de Camões",
+    "title": "Wissenswertes über die Alte Brücke",
     "sections": [
       {
         "id": "history",
-        "title": "Memorial Significance",
-        "content": "This garden was established by the city of Leiria as an urban space to pay tribute to the Portuguese literary giant Luís de Camões, with his bronze statue acting as the centerpiece."
+        "title": "Geschichte",
+        "content": "Die Alte Brücke (Karl-Theodor-Brücke) wurde zwischen 1786 und 1788 unter Kurfürst Karl Theodor errichtet und ist die älteste noch erhaltene Neckarbrücke Heidelbergs. Der Brückenaffe am Altstädter Torturm zählt zu ihren bekanntesten Symbolen."
       },
       {
         "id": "architecture",
-        "title": "Landscaping",
-        "content": "The garden features a delicate design with neatly trimmed greenery, a classical-style fountain, and relaxing benches that blend harmoniously with the surrounding urban architecture."
+        "title": "Architektur",
+        "content": "Die Brücke besteht aus rotem Sandstein und besitzt neun Bögen. Am Altstädter Ufer steht das markante Brückentor mit zwei weißen Rundtürmen, das bis 1822 zugleich als Gefängnis diente."
       },
       {
         "id": "experience",
-        "title": "Relaxing Experience",
-        "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
+        "title": "Ihr Besuch",
+        "content": "Die Alte Brücke ist ein öffentlicher Fuß- und Radweg und rund um die Uhr kostenlos zugänglich. Sie verbindet die Altstadt mit dem Philosophenweg und ist der ideale Startpunkt für einen Stadtrundgang."
       }
     ]
   },
@@ -76,202 +79,210 @@
     "plusCodeValue": "CP75+RR Heidelberg Deutschland"
   },
   "hours": {
-    "title": "Opening Hours",
-    "outdoor": "Entire Garden",
-    "outdoorTime": "Free and open all day, no ticketed indoor pavilions, no seasonal restrictions",
-    "lighthouse": "Nearby Attractions",
-    "summer": "Leiria Castle",
-    "summerTime": "Usually 09:30-17:30 (subject to official castle announcements)",
-    "winter": "Museum of Leiria",
-    "winterTime": "Usually 09:30-17:30 (Closed on Mondays)",
-    "warning": "Fountain & Statue Area",
-    "warningTime": "Open all day for viewing",
-    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
+    "title": "Öffnungszeiten",
+    "outdoor": "Alte Brücke (gesamte Brücke)",
+    "outdoorTime": "24 Stunden kostenlos zugänglich – keine Eintrittspflicht, keine saisonale Sperrung",
+    "lighthouse": "Sehenswürdigkeiten in der Nähe",
+    "summer": "Heidelberger Schloss",
+    "summerTime": "In der Regel täglich 09:00–18:00 (je nach Saison; aktuelle Zeiten auf der offiziellen Website prüfen)",
+    "winter": "Deutsches Apothekenmuseum (im Schloss)",
+    "winterTime": "In der Regel 10:00–17:30",
+    "warning": "Brückenaffe & Brückentore",
+    "warningTime": "Rund um die Uhr für Besucher geöffnet",
+    "tip": "Frühmorgens und am späten Nachmittag ist es auf der Alten Brücke am ruhigsten – ideal für Spaziergänge und Fotos"
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Jardim Luís de Camões",
-    "outdoorPrice": "Free all day",
-    "lighthouse": "Nearby Paid Attractions",
-    "adults": "Leiria Castle",
-    "adultsPrice": "Requires an admission ticket",
-    "students": "Nearby Museums",
-    "studentsPrice": "Fees apply according to each venue's rules",
-    "children": "Parking Fees",
-    "childrenPrice": "Paid street parking is available around the garden, a 1-2 minute walk away",
-    "card": "Transport Tip",
-    "cardPrice": "Located in the city center, walking distance to nearby dining and shopping areas"
+    "title": "Eintritt & Preise",
+    "outdoor": "Alte Brücke (Karl-Theodor-Brücke)",
+    "outdoorPrice": "Kostenlos – ganztägig geöffnet",
+    "lighthouse": "Bezahlte Attraktionen in der Nähe",
+    "adults": "Heidelberger Schloss",
+    "adultsPrice": "Eintritt erforderlich (Preise auf der offiziellen Website prüfen)",
+    "students": "Museen in der Altstadt",
+    "studentsPrice": "Eintritt je nach Einrichtung, Ermäßigungen möglich",
+    "children": "Parkgebühren",
+    "childrenPrice": "Bezahlte Parkhäuser in der Altstadt (z. B. P12/P13), ca. 5–10 Gehminuten von der Brücke",
+    "card": "Tipp für Ihren Besuch",
+    "cardPrice": "Die Brücke liegt mitten in der Altstadt – Cafés, Restaurants und die Einkaufsmeile Hauptstraße sind bequem zu Fuß erreichbar"
   },
   "transport": {
-    "title": "Transportation",
-    "airport": "From the Airport",
-    "airportDesc": "Nearest International Airports: Lisbon LIS Airport (approx. 140 km, 1.5 hours drive), Porto OPO Airport (approx. 200 km, 2 hours drive).",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A8 or A1 highway north directly to Leiria. Set your GPS to Largo 5 de Outubro 48, and find paid street parking nearby.",
-    "bus": "Public Transport",
-    "busDesc": "Direct intercity buses (Rede Expressos) and trains run from both Lisbon and Porto to Leiria. From the Leiria station, the garden is easily reachable on foot.",
-    "intercity": "Short-Distance Travel",
-    "intercityDesc": "Attractions in downtown Leiria are close together; Castelo de Leiria is just a 5-minute walk from the garden.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The coastal areas around Leiria (such as Nazaré and São Pedro de Moel) are great for road cycling.",
-    "tips": "Travel Tips",
-    "tipsDesc": "Leiria is centrally located in Portugal, close to the Atlantic coast, Óbidos Castle, and Batalha Monastery, making it an excellent hub for exploring the central region."
+    "title": "Anreise & Verkehr",
+    "airport": "Vom Flughafen",
+    "airportDesc": "Nächstgelegene internationale Flughäfen: Frankfurt (FRA, ca. 80 km, ca. 1 Stunde mit Zug oder Auto) und Stuttgart (STR, ca. 120 km, ca. 1,5 Stunden mit dem Auto).",
+    "selfDrive": "Mit dem Auto",
+    "selfDriveDesc": "Von Frankfurt oder Stuttgart erreichen Sie Heidelberg über die A5. Die Altstadt ist autofrei – nutzen Sie die Parkhäuser P12 (Kornmarkt/Schloss) oder P13 (Karlsplatz) und laufen Sie ca. 5–10 Minuten zur Alten Brücke.",
+    "bus": "Öffentliche Verkehrsmittel",
+    "busDesc": "ICE/IC-Verbindungen fahren von Frankfurt und Stuttgart direkt zum Heidelberger Hauptbahnhof. Vom Bahnhof bringen Sie Straßenbahn und Bus in wenigen Minuten in die Altstadt.",
+    "intercity": "Vor Ort unterwegs",
+    "intercityDesc": "Die Altstadt liegt kompakt beieinander: Von der Alten Brücke erreichen Sie die Schlossbahn (Kornmarkt) und die Hauptstraße zu Fuß in wenigen Minuten.",
+    "cycling": "Mit dem Rad & zu Fuß",
+    "cyclingDesc": "Der Neckaruferweg und der Philosophenweg auf der gegenüberliegenden Neckarseite eignen sich hervorragend für Radtouren und Wanderungen.",
+    "tips": "Reisetipps",
+    "tipsDesc": "Heidelberg liegt in Baden-Württemberg und ist ein idealer Ausgangspunkt für die Neckar-Region, Mannheim und Schloss Schwetzingen."
   },
   "route": {
-    "title": "Visiting Route",
-    "overview": "Heidelberger Altstadt Spaziergang",
+    "title": "Empfohlener Rundgang",
+    "overview": "Heidelberger Altstadt-Spaziergang ab der Alten Brücke",
     "steps": [
-      "Arrive at Jardim Luís de Camões to admire the Camões statue and fountain",
-      "Take a break on a garden bench and enjoy the urban greenery",
-      "Walk to Leiria's old town to explore local cafes and craft shops",
-      "Take a 5-minute walk up to the majestic Castelo de Leiria",
-      "Visit the nearby Leiria Cathedral or local museums",
-      "Taste traditional Central Portugal cuisine in the old town"
+      "An der Alten Brücke starten und am Brückentor den berühmten Brückenaffen besuchen",
+      "Am Neckarufer entlangschlendern und den Blick auf Altstadt und Schloss genießen",
+      "Durch das Brückentor in die Altstadt gehen und die Fußgängerzone Hauptstraße mit Cafés und Geschäften erkunden",
+      "Weiter zum Marktplatz mit der Heiliggeistkirche – hier locken Cafés und Restaurants",
+      "Mit der historischen Bergbahn ab Kornmarkt hinauf zum Heidelberger Schloss; wer Zeit hat, fährt weiter zum Königstuhl",
+      "Über die Alte Brücke zum Philosophenweg auf die andere Neckarseite – bei Sonnenuntergang der schönste Panoramablick der Stadt"
     ],
     "supplements": [
-      "The garden is an open space, no reservations needed",
-      "Pay attention to parking meters and time limits on surrounding streets",
-      "Leiria Castle is located on a hill, requiring an uphill walk"
+      "Die Alte Brücke ist ein öffentlicher Fuß- und Radweg und rund um die Uhr kostenlos zugänglich – keine Reservierung nötig.",
+      "In der Altstadt gibt es nur wenige freie Parkplätze – am besten in einem der Parkhäuser parken.",
+      "Der Weg zum Schloss führt bergauf über historisches Kopfsteinpflaster – feste, bequeme Schuhe empfehlenswert."
     ],
-    "supplementsTitle": "Visiting Notes"
+    "supplementsTitle": "Hinweise für Besucher"
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Beste Fotospots",
     "spots": [
       {
-        "name": "Alte Brücke Statuen",
-        "desc": "Fotografieren Sie die ikonischen Bronzestatuen mit der Altstadt im Hintergrund"
+        "name": "Brückenaffe",
+        "desc": "Das berühmte Affenstandbild am Brückenturm mit der Altstadt im Hintergrund fotografieren"
       },
       {
-        "name": "Fountain and Greenery",
-        "desc": "Use the water features and manicured shrubs as foregrounds for fresh garden shots"
+        "name": "Neckar & Altstadtkulisse",
+        "desc": "Fluss und rote Dächer der Altstadt als klassische Heidelberger Kulisse nutzen"
       },
       {
-        "name": "Relaxation Benches",
-        "desc": "Capture the laid-back daily life of the locals"
+        "name": "Brückentor & Rundtürme",
+        "desc": "Die markanten Türme des alten Brückentors sind ein ikonisches Fotomotiv"
       },
       {
         "name": "Blick auf das Heidelberger Schloss",
-        "desc": "Blicken Sie von der Brücke zum majestätischen Heidelberger Schloss hinauf"
+        "desc": "Von der Brückenmitte aus rahmt das Schloss den Blick auf die Altstadt"
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Morning sunlight filtering through the leaves onto the statue creates the best lighting for photography."
+    "tips": "Fototipp",
+    "tipsContent": "Am frühen Morgen fällt das Licht auf die rote Sandsteinfassade – die Brücke ist dann meist noch menschenleer."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Unterkunft in Heidelberg",
     "hotels": [
       {
-        "name": "Downtown Boutique Hotels",
-        "desc": "Just steps away from the garden and castle, extremely convenient",
-        "price": "Ideal for those who love a city vibe"
+        "name": "Boutique-Hotels in der Altstadt",
+        "desc": "Nur wenige Gehminuten von Brücke und Schlossbahn entfernt",
+        "price": "Ideal für alle, die das Heidelberger Flair lieben"
       },
       {
-        "name": "Old Town Cozy Apartments",
-        "desc": "Equipped with kitchens, surrounded by restaurants and supermarkets",
-        "price": "Great for families or extended stays"
+        "name": "Gemütliche Apartments an der Hauptstraße",
+        "desc": "Mit Küche, umgeben von Restaurants und Supermärkten",
+        "price": "Perfekt für Familien oder längere Aufenthalte"
       },
       {
-        "name": "Coastal Resorts (e.g., near Nazaré)",
-        "desc": "About a 30-minute drive from Leiria, offering Atlantic ocean views",
-        "price": "Perfect for drivers seeking a beach holiday experience"
+        "name": "Hotels am Neckarufer",
+        "desc": "Mit Blick auf Fluss und Philosophenweg, ca. 10–15 Gehminuten zur Brücke",
+        "price": "Ruhiger Aufenthalt mit schöner Aussicht"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "Rund um Heidelberg gibt es zahlreiche hoch bewertete lokale Restaurants, in denen Sie traditionelle deutsche Küche probieren können.",
-    "supplementsTitle": "Local Cuisine"
+    "supplements": "Hinweis zur Unterkunft",
+    "supplementsContent": "In und um Heidelberg gibt es zahlreiche hoch bewertete Restaurants mit traditioneller deutscher Küche – von Brauhäusern bis zur Badischen Küche.",
+    "supplementsTitle": "Lokale Küche"
   },
   "gallery": {
-    "title": "Wunderschöne Fotos",
+    "title": "Bilder der Alten Brücke",
     "subtitle": "Bezaubernde Landschaft der Alten Brücke Heidelberg",
     "captions": [
-      "Camões Statue",
-      "Garden Fountain",
-      "Manicured Shrubs",
-      "Leiria Castle View",
-      "Shaded Walking Path",
-      "Urban Oasis",
-      "Leiria Old Town Streets",
-      "Local Cafe",
-      "Sunlit Bench",
-      "Garden Flowers",
-      "City Square",
-      "Portuguese Cobblestones",
-      "Garden at Dusk",
-      "Leiria Cathedral",
-      "Monument Details",
-      "Quiet Afternoon",
-      "Cityscape",
-      "Historical Architecture",
-      "Water Feature",
-      "Locals Relaxing"
+      "Brückenaffe",
+      "Blick auf den Neckar",
+      "Steinbögen der Alten Brücke",
+      "Heidelberger Schloss in der Ferne",
+      "Philosophenweg",
+      "Neckarufer",
+      "Gassen der Altstadt",
+      "Lokales Café",
+      "Spaziergänger auf der Brücke",
+      "Flusslandschaft",
+      "Marktplatz",
+      "Historisches Kopfsteinpflaster",
+      "Die Alte Brücke am Abend",
+      "Heiliggeistkirche",
+      "Skulpturen am Brückenpfeiler",
+      "Ruhiger Nachmittag",
+      "Panorama der Altstadt",
+      "Roter Sandstein",
+      "Neckar-Fahrgastschiff",
+      "Einheimische in der Freizeit"
     ],
     "viewAll": "Mehr Fotos auf Google Maps ansehen",
     "showAllPhotos": "Alle Fotos anzeigen"
   },
   "reviews": {
-    "title": "Besertungen",
+    "title": "Besucherbewertungen",
     "declaration": "Bewertungsinformationen können über Google Maps eingesehen werden (externer Link).",
-    "moreReviews": "Mehr Bewertungen auf Google Maps ansehen",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
     "items": [
       {
-        "name": "João Silva",
-        "date": "2 months ago",
+        "name": "Markus Weber",
+        "date": "vor 2 Monaten",
         "rating": 5,
-        "text": "A wonderful, well-preserved urban garden! The cobblestone paths and statues are full of history. Walking here is very relaxing. Highly recommend coming at sunset."
+        "text": "Ein wunderschönes, gut erhaltenes Wahrzeichen! Die Steine und Statuen der Brücke sind voller Geschichte, der Blick auf Schloss und Neckar ist unbezahlbar. Unbedingt bei Sonnenuntergang kommen."
       },
       {
-        "name": "Maria Costa",
-        "date": "1 month ago",
+        "name": "Julia Schneider",
+        "date": "vor 1 Monat",
         "rating": 5,
-        "text": "One of the most beautiful leisure spots in Leiria! The tranquility here is so relaxing, and the surrounding greenery is gorgeous. Be careful in summer as it can get hot, bring water and sunscreen."
+        "text": "Der schönste Ort in Heidelberg! Vom Brückenaffen bis zum Panoramablick auf die Altstadt – einfach traumhaft. Achtung: Auf der Brücke kann es windig sein, im Winter warm anziehen."
       },
       {
-        "name": "Carlos Rodrigues",
-        "date": "3 months ago",
+        "name": "Thomas Becker",
+        "date": "vor 3 Monaten",
         "rating": 4,
-        "text": "An amazing place. The garden isn't huge, but the location is perfect. Had a great traditional Portuguese meal at a nearby restaurant. The only issue is finding parking during peak season."
+        "text": "Ein beeindruckendes Bauwerk. Die Brücke ist nicht lang, aber die Lage ist perfekt – in wenigen Minuten ist man in der Altstadt oder am Schloss. Parken kann im Hochsommer etwas dauern."
       },
       {
-        "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "name": "Anna Wagner",
+        "date": "vor über 6 Monaten",
         "rating": 5,
-        "text": "A very romantic and charming place. We walked around here and the night view is absolutely stunning. Completely fell in love with it!"
+        "text": "Sehr romantisch! Abends ist die beleuchtete Brücke mit Blick auf das Schloss ein Traum. Ich bin völlig verliebt in diese Stadt."
       },
       {
-        "name": "Pedro Santos",
-        "date": "1 year ago",
+        "name": "Peter Hoffmann",
+        "date": "vor 1 Jahr",
         "rating": 5,
-        "text": "The scenery here really lifts your mood. You can see the exquisite statue blending with the wide square. The garden itself is charming with many cafes around."
+        "text": "Die Aussicht hebt sofort die Stimmung. Vom Brückenaffen bis zum Flusslauf – alles ist perfekt in Szene gesetzt. Rundherum gibt es viele schöne Cafés."
       },
       {
-        "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "name": "Stefanie Braun",
+        "date": "vor über 6 Monaten",
         "rating": 4,
-        "text": "Well worth a visit! It's very easy to walk here from Leiria Castle. Recommend wearing flat shoes due to the cobblestone paths. Locals are friendly, great spots for photos."
+        "text": "Absolut sehenswert! Von der Altstadt ist die Brücke schnell erreicht. Bequeme Schuhe empfehlenswert, da überall Kopfsteinpflaster liegt. Viele tolle Fotomotive!"
       },
       {
-        "name": "Rui Almeida",
-        "date": "3 months ago",
+        "name": "Lukas Fischer",
+        "date": "vor 3 Monaten",
         "rating": 5,
-        "text": "Feels like stepping back in time! Every path and fountain has its story. Resting on a bench makes you feel like time has stopped. A must-visit in Leiria."
+        "text": "Als würde man durch die Geschichte laufen! Jeder Bogen und jede Skulptur hat seine eigene Geschichte. Ein absolutes Muss bei jedem Heidelberg-Besuch."
       },
       {
-        "name": "Catarina Gomes",
-        "date": "2 months ago",
+        "name": "Christina Keller",
+        "date": "vor 2 Monaten",
         "rating": 5,
-        "text": "Beautiful beyond words. Whether it's the Camões statue or the green vegetation, you won't want to leave. Highly recommend sitting by the fountain, it feels amazing."
+        "text": "Schöner als jede Beschreibung. Ob der Brückenaffe oder der Blick den Neckar hinauf – man möchte gar nicht weitergehen. Der Sonnenuntergang von der Brückenmitte ist unvergesslich."
       }
     ]
   },
   "mapSection": {
-    "title": "Anfahrt",
+    "title": "Lage & Anfahrt: Alte Brücke in Heidelberg (Old Bridge)",
     "subtitle": "Alte Brücke, 69117 Heidelberg, Deutschland",
-    "openMaps": "Auf Google Maps ansehen"
+    "openMaps": "Auf Google Maps ansehen",
+    "regionLine": "Old Bridge Heidelberg → Heidelberg → Baden-Württemberg → Deutschland",
+    "nearbyTitle": "Sehenswürdigkeiten in der Nähe",
+    "nearbyLine": "Schloss Heidelberg und der Philosophenweg sind von der Brücke aus bequem zu Fuß erreichbar und lassen sich ideal mit einem Besuch der Alten Brücke verbinden.",
+    "tourismTitle": "Offizielle Tourismus-Information",
+    "tourismName": "Heidelberg Marketing – offizielle Tourismus-Webseite der Stadt Heidelberg",
+    "phoneLabel": "Tourist-Information Heidelberg:",
+    "phoneValue": "+49 6221 58 44 44",
+    "location": "Geografische Einordnung"
   },
   "footer": {
     "rights": "© 2026 Old Bridge Heidelberg. Alle Rechte vorbehalten.",
-    "privacy": "Datenschutz",
+    "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
     "cookies": "Cookie-Einstellungen",
     "officialResourcesTitle": "Verwandte Ressourcen & Informationen",
@@ -297,7 +308,7 @@
         "url": "https://www.denkmalpflege-bw.de/"
       },
       "heidelberg_denkmal": {
-        "name": "Denkmalschutz Heidelberg",
+        "name": "Stadt Heidelberg – Denkmalschutz",
         "url": "https://www.heidelberg.de/HD/Leben/Denkmalschutz.html"
       },
       "bauforschung": {
@@ -307,106 +318,410 @@
       "auswaertiges": {
         "name": "Auswärtiges Amt",
         "url": "https://www.auswaertiges-amt.de/"
+      },
+      "heidelberg_tourism": {
+        "name": "Tourist-Information Heidelberg (Heidelberg Marketing)",
+        "url": "https://www.heidelberg-marketing.de/"
       }
     },
-    "disclaimer": "Diese Website ist ein unabhängiges Informationsprojekt von Dritten."
+    "disclaimer": "Diese Website ist ein unabhängiges Informationsprojekt von Dritten. Wir stehen in keiner Verbindung zu lokalen Behörden oder anderen offiziellen Einrichtungen.",
+    "photoCredits": "Bildnachweis: Alle auf dieser Website gezeigten Bilder gehören ihren jeweiligen Urhebern und sind urheberrechtlich geschützt. Sie werden ausschließlich zu Informationszwecken gezeigt."
+  },
+  "legal": {
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "description": "Datenschutzerklärung für oldbridgeheidelberg.com: welche Daten wir erheben, wie wir sie verwenden und welche Rechte Sie haben."
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "description": "Nutzungsbedingungen für das unabhängige Reiseinformationsportal Old Bridge Heidelberg."
+    },
+    "cookies": {
+      "title": "Cookie-Einstellungen",
+      "description": "Verwalten Sie Ihre Cookie-Präferenzen für oldbridgeheidelberg.com."
+    }
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: Mai 2026",
     "sections": [
       {
-        "heading": "1. Information We Collect",
-        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+        "heading": "1. Welche Daten wir erheben",
+        "content": "Wir erheben nur die Daten, die zur Bereitstellung unserer Dienste erforderlich sind. Dazu können gehören: Browsing-Daten (IP-Adresse, Browsertyp, besuchte Seiten), Cookies und ähnliche Technologien sowie Informationen, die Sie uns freiwillig über Kontaktformulare oder E-Mail mitteilen."
       },
       {
-        "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "heading": "2. Wie wir Ihre Daten verwenden",
+        "content": "Wir verwenden die erhobenen Informationen, um: Inhalte und Nutzererfahrung der Website zu verbessern, Verkehr und Nutzungsmuster zu analysieren, auf Anfragen zu antworten und unseren rechtlichen Verpflichtungen nachzukommen."
       },
       {
-        "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "heading": "3. Dienste Dritter",
+        "content": "Unsere Website nutzt möglicherweise Dienste Dritter wie Google Maps (für eingebettete Karten und Standortdaten), Google Analytics (für die Verkehrsanalyse) und Unsplash (für Bilder). Diese Dienste unterliegen eigenen Datenschutzrichtlinien."
       },
       {
-        "heading": "4. Your Rights",
-        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+        "heading": "4. Ihre Rechte",
+        "content": "Gemäß der Datenschutz-Grundverordnung (DSGVO) und den einschlägigen Vorschriften haben Sie das Recht auf: Auskunft über Ihre personenbezogenen Daten, Berichtigung oder Löschung, Widerspruch gegen die Verarbeitung sowie Beschwerde bei einer Aufsichtsbehörde."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Mai 2026",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Annahme der Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung dieser Website erklären Sie sich mit diesen Nutzungsbedingungen einverstanden."
       },
       {
-        "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "heading": "2. Nutzung der Inhalte",
+        "content": "Alle Inhalte dieser Website dienen ausschließlich Informationszwecken. Wir sind eine unabhängige Website mit Reiseinformationen von Dritten und stehen in keiner Verbindung zu Sehenswürdigkeiten, Behörden oder kommerziellen Betreibern."
       },
       {
-        "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "heading": "3. Richtigkeit der Informationen",
+        "content": "Wir bemühen uns um korrekte und aktuelle Informationen, können deren Vollständigkeit oder Richtigkeit jedoch nicht garantieren. Öffnungszeiten, Konditionen und Leistungen können sich ohne Ankündigung ändern. Bitte prüfen Sie wichtige Informationen vor Ihrer Reise über offizielle Kanäle."
       },
       {
-        "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "heading": "4. Geistiges Eigentum",
+        "content": "Design und Originalinhalte dieser Website sind urheberrechtlich geschützt. Bilder stammen von Unsplash und werden lizenziert verwendet. Die Nutzung von Google-Maps-Daten erfolgt gemäß den Nutzungsbedingungen von Google."
       },
       {
-        "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "heading": "5. Haftungsbeschränkung",
+        "content": "Diese Website wird ohne Gewährleistung bereitgestellt. Für Schäden, die aus der Nutzung der hier bereitgestellten Informationen entstehen – einschließlich Reiseentscheidungen auf Basis dieser Inhalte – übernehmen wir keine Haftung."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "title": "Cookie-Einstellungen",
+    "description": "Zuletzt aktualisiert: Mai 2026\n\nWir verwenden Cookies, um Ihr Surferlebnis zu verbessern. Sie können Ihre Präferenzen unten verwalten.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Notwendige Cookies",
+      "description": "Diese Cookies sind für den Betrieb der Website erforderlich und können nicht deaktiviert werden.",
+      "badge": "Immer aktiv"
     },
     "analytics": {
-      "title": "Analytics Cookies",
-      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "title": "Analyse-Cookies",
+      "description": "Sie helfen uns zu verstehen, wie Besucher mit unserer Website interagieren, indem sie anonyme Nutzungsdaten sammeln.",
       "items": [
         {
           "name": "Google Analytics",
-          "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "status": "Aktiv",
+          "description": "Sammelt anonyme Informationen darüber, wie Besucher unsere Website nutzen."
         }
       ]
     },
     "marketing": {
-      "title": "Marketing Cookies",
-      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "title": "Marketing-Cookies",
+      "description": "Sie dienen dazu, relevante Werbung anzuzeigen und die Wirksamkeit von Werbekampagnen zu messen.",
       "items": [
         {
-          "name": "Personalized Ads",
-          "status": "Inactive",
-          "description": "It can show you relevant ads based on your interests."
+          "name": "Personalisierte Werbung",
+          "status": "Inaktiv",
+          "description": "Kann Ihnen relevante Werbung basierend auf Ihren Interessen anzeigen."
         }
       ]
     },
-    "save": "Save Preferences",
-    "saved": "Settings saved!",
+    "save": "Einstellungen speichern",
+    "saved": "Einstellungen gespeichert!",
     "preferences": {
       "items": [
         {
-          "name": "User Preferences",
-          "status": "Active",
-          "description": "Saves your language preferences and website settings."
+          "name": "Benutzerpräferenzen",
+          "status": "Aktiv",
+          "description": "Speichert Ihre Sprach- und Website-Einstellungen."
         }
       ],
-      "title": "Preference Cookies",
-      "description": "They remember your settings, such as language and theme preferences."
+      "title": "Präferenz-Cookies",
+      "description": "Sie merken sich Ihre Einstellungen, z. B. Sprache und Theme-Präferenzen."
     },
-    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
-    "rejectAll": "Reject All"
+    "consentManagement": "Einwilligungsverwaltung: Sie können Ihre Cookie-Einstellungen jederzeit ändern. Bitte beachten Sie, dass das Deaktivieren bestimmter Cookies die Funktionalität der Website beeinträchtigen kann.",
+    "rejectAll": "Alle ablehnen"
   },
   "officialManagement": {
-    "title": "About Jardim Luís de Camões",
-    "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
+    "title": "Über die Alte Brücke Heidelberg",
+    "text": "Die Alte Brücke (Karl-Theodor-Brücke) wurde 1786–1788 errichtet und ist eines der bekanntesten Wahrzeichen Heidelbergs. Als historisches Bauwerk wird sie von der Stadt Heidelberg erhalten und gepflegt. Diese Website ist ein unabhängiges Informationsprojekt."
+  },
+  "topSights": {
+    "title": "Weitere Top-Sehenswürdigkeiten in Heidelberg",
+    "subtitle": "Die Alte Brücke ist der ideale Ausgangspunkt – diese Highlights erreichen Sie in wenigen Minuten zu Fuß oder mit der Bergbahn.",
+    "items": [
+      {
+        "name": "Heidelberger Schloss",
+        "distance": "Ca. 15 Min. zu Fuß oder 8 Min. mit der Bergbahn",
+        "desc": "Die berühmte Schlossruine thront über der Altstadt und bietet den schönsten Blick auf die Alte Brücke."
+      },
+      {
+        "name": "Königstuhl & Bergbahn",
+        "distance": "Ab dem Schloss weiter mit der Bergbahn",
+        "desc": "Der 568 m hohe Hausberg Heidelbergs mit Panoramablick über Neckartal und Rheinebene."
+      },
+      {
+        "name": "Philosophenweg",
+        "distance": "Ca. 20 Min. zu Fuß über die Brücke",
+        "desc": "Der berühmte Aussichtspfad am gegenüberliegenden Neckarufer mit Postkartenblick auf die Altstadt."
+      },
+      {
+        "name": "Altstadt & Hauptstraße",
+        "distance": "Direkt am Altstädter Brückenkopf",
+        "desc": "Die Fußgängerzone mit Fachwerkhäusern, Cafés und Geschäften – eine der längsten Europas."
+      }
+    ],
+    "cta": "Alle Top-Sehenswürdigkeiten im Überblick",
+    "ctaHint": "mit Entfernungen, Eintritt & Besuchertipps"
+  },
+  "attractions": {
+    "meta": {
+      "title": "Heidelberg Sehenswürdigkeiten: Top-Attraktionen & Tipps 2026",
+      "description": "Die besten Sehenswürdigkeiten in Heidelberg im Überblick: Heidelberger Schloss, Königstuhl, Philosophenweg, Altstadt & mehr – mit Entfernungen zur Alten Brücke und Besuchertipps."
+    },
+    "badge": "Heidelberg Reiseführer",
+    "title": "Die Top-Sehenswürdigkeiten in Heidelberg rund um die Alte Brücke",
+    "intro": [
+      "Heidelberg zählt zu den schönsten Städten Deutschlands – und die Alte Brücke liegt genau im Zentrum der berühmtesten Sehenswürdigkeiten. Von hier aus erreichen Sie Heidelberger Schloss, Philosophenweg und Altstadt in wenigen Minuten zu Fuß.",
+      "In diesem Reiseführer finden Sie die wichtigsten Attraktionen Heidelbergs mit Entfernungen zur Alten Brücke, Hinweisen zu Eintritt und Öffnungszeiten sowie praktischen Tipps für Ihren Besuch."
+    ],
+    "itemsTitle": "Heidelbergs Highlights im Detail",
+    "items": [
+      {
+        "id": "schloss",
+        "name": "Heidelberger Schloss",
+        "distance": "Ca. 15 Min. zu Fuß bergauf oder 8 Min. mit der Bergbahn",
+        "description": "Das Heidelberger Schloss ist eine der berühmtesten Schlossruinen der Welt und das Wahrzeichen der Stadt. Vom Schlossgarten und vom Balkon der Ruine haben Sie den berühmten Blick hinunter auf die Alte Brücke und die Altstadt. Im Inneren erwarten Sie das Großfass (das größte Weinfass der Welt), das Deutsche Apothekenmuseum und die prachtvollen Fürstenzimmer."
+      },
+      {
+        "id": "koenigstuhl",
+        "name": "Königstuhl & Bergbahn",
+        "distance": "Ab dem Schloss ca. 10 Min. weiter mit der Bergbahn",
+        "description": "Der Königstuhl ist mit 568 m der höchste Berg der Region und gehört zu den schönsten Aussichtspunkten über Heidelberg. Die historische Bergbahn fährt seit 1890 in zwei Abschnitten vom Kornmarkt über das Schloss bis auf den Gipfel. Oben erwartet Sie ein weiter Panoramablick über das Neckartal, den Odenwald und die Rheinebene – besonders bei Sonnenuntergang spektakulär."
+      },
+      {
+        "id": "philosophenweg",
+        "name": "Philosophenweg",
+        "distance": "Ca. 20 Min. zu Fuß über die Brücke",
+        "description": "Der Philosophenweg verläuft am bewaldeten Hang des gegenüberliegenden Neckarufers und gilt als einer der schönsten Spazierwege Deutschlands. Er ist nach den Philosophen der Universität Heidelberg benannt, die hier einst spazierten. Von hier haben Sie den berühmtesten Blick auf Heidelberg: Altstadt, Schloss und die Alte Brücke aus der Postkartenperspektive."
+      },
+      {
+        "id": "altstadt",
+        "name": "Altstadt & Hauptstraße",
+        "distance": "Direkt am Altstädter Brückenkopf",
+        "description": "Die Heidelberger Altstadt mit ihrer Fußgängerzone Hauptstraße zählt zu den längsten Einkaufsstraßen Europas. Fachwerkhäuser, Boutiquen, Cafés und Biergärten säumen den Weg vom Karlstor bis zum Universitätsplatz. Zwischen den Gassen findet man den Marktplatz mit der Heiliggeistkirche sowie zahlreiche urige Restaurants mit deutscher Küche."
+      },
+      {
+        "id": "heiliggeistkirche",
+        "name": "Heiliggeistkirche",
+        "distance": "Ca. 5 Min. zu Fuß vom Brückenkopf",
+        "description": "Die spätgotische Heiliggeistkirche am Marktplatz ist die größte Kirche Heidelbergs. Sie wurde über mehr als 150 Jahre erbaut und beherbergte einst die berühmte Bibliotheca Palatina, deren Bände heute über die ganze Welt verstreut sind. Vor der Kirche findet regelmäßig ein stimmungsvoller Büchermarkt statt."
+      },
+      {
+        "id": "universitaet",
+        "name": "Alte Universität & Studentenkarzer",
+        "distance": "Ca. 7 Min. zu Fuß",
+        "description": "Die Universität Heidelberg wurde 1386 gegründet und ist die älteste Universität Deutschlands. Am Universitätsplatz können Sie den Studentenkarzer besichtigen – ein historisches Studentengefängnis aus dem 18. Jahrhundert, dessen Wände mit Graffiti früherer Studenten bedeckt sind. Auch die Alte Aula ist einen Besuch wert."
+      }
+    ],
+    "tips": {
+      "title": "Praktische Tipps für Ihren Besuch",
+      "list": [
+        "Frühmorgens sind Schloss und Philosophenweg am ruhigsten – ideal für Fotos ohne Menschenmassen.",
+        "Schloss und Bergbahn lassen sich am besten in einem halben Tag kombinieren; Kombi-Tickets sparen Wartezeit an der Kasse.",
+        "Viele Attraktionen erreichen Sie zu Fuß. Für den Schlossberg und den Philosophenweg sind feste Schuhe empfehlenswert.",
+        "Planen Sie genug Zeit ein: Die Aussichtspunkte laden zum Verweilen ein und die Altstadt hat kulinarisch viel zu bieten."
+      ]
+    },
+    "bridgeTitle": "Bereit für den Start an der Alten Brücke?",
+    "bridgeText": "Alle Infos zu Öffnungszeiten, besten Fotospots, Geschichte und Anfahrt der Alten Brücke Heidelberg finden Sie auf der Startseite.",
+    "bridgeCta": "Zur Alten Brücke Heidelberg"
+  },
+  "practicalInfo": {
+    "title": "Praktische Hinweise für Ihren Besuch",
+    "subtitle": "WC, Parken, Einkauf, Essen und mehr – neutral zusammengestellt, ganz ohne Werbung für einzelne Anbieter.",
+    "groups": [
+      {
+        "id": "wc",
+        "title": "Öffentliche Toiletten",
+        "items": [
+          "In der Altstadt und am Brückenkopf gibt es öffentliche WC-Anlagen; viele Cafés und Gaststätten stellen ihre Toiletten Gästen zur Verfügung.",
+          "Auf dem Philosophenweg und im Schlosspark sind Toiletten selten – den Gang besser vor dem Spaziergang erledigen."
+        ]
+      },
+      {
+        "id": "parking",
+        "title": "Parken & Anreise",
+        "items": [
+          "Direkt an der Brücke gibt es praktisch keine Stellplätze. Altstadt-Parkhäuser und Park & Ride-Anlagen am Stadtrand liegen in 5–15 Gehminuten Entfernung.",
+          "Straßenbahn und Bus bringen Sie vom Hauptbahnhof in die Innenstadt; von dort ist die Brücke nur ein kurzer Fußweg.",
+          "Für Wohnmobile und Busse gibt es ausgewiesene Stellplätze außerhalb der Altstadt."
+        ]
+      },
+      {
+        "id": "dining",
+        "title": "Essen & Trinken",
+        "items": [
+          "Rund um die Brücke reihen sich Cafés, Bäckereien, Eisdielen und Restaurants mit deutscher wie internationaler Küche aneinander.",
+          "Für ein Picknick mit Blick auf Brücke und Schloss eignen sich die Neckarwiesen – selbstorganisiert und kostenlos."
+        ]
+      },
+      {
+        "id": "stay",
+        "title": "Übernachten",
+        "items": [
+          "Vom Altstadt-Hotel über Pensionen und Ferienwohnungen bis zur Jugendherberge ist für jedes Budget etwas dabei.",
+          "Unterkünfte auf der nördlichen Neckarseite sind oft ruhiger und blicken direkt auf Altstadt und Schloss."
+        ]
+      },
+      {
+        "id": "daily",
+        "title": "Einkaufen & Alltag",
+        "items": [
+          "Super-, Drogerie- und Souvenirmärkte, Apotheken und Geldautomaten liegen entlang der Fußgängerzone Hauptstraße.",
+          "Wichtig für Ihre Planung: In Deutschland haben die meisten Geschäfte sonntags geschlossen, kleinere Läden oft auch abends."
+        ]
+      },
+      {
+        "id": "fuel",
+        "title": "Tanken & Laden",
+        "items": [
+          "Tankstellen befinden sich an den Ausfallstraßen und am Stadtrand – nicht in der Fußgängerzone.",
+          "Ladepunkte für E-Autos und E-Bikes gibt es an Parkhäusern und öffentlichen Parkplätzen im Stadtgebiet."
+        ]
+      }
+    ],
+    "note": "Als unabhängiges, gemeinnütziges Informationsprojekt nennen wir bewusst keine einzelnen Anbieter. Öffnungszeiten, Ausstattung und Preise bitte vor Ort prüfen."
+  },
+  "weather": {
+    "title": "Wetter in Heidelberg",
+    "subtitle": "Das aktuelle Wetter an der Alten Brücke und die Aussichten der nächsten Tage – praktisch für Fotos, Spaziergänge und Picknick.",
+    "now": "Aktuell",
+    "feels": "Gefühlt",
+    "wind": "Wind",
+    "humidity": "Luftfeuchte",
+    "today": "Heute",
+    "forecast": "Die nächsten Tage im Blick",
+    "pop": "Regenwahrscheinlichkeit",
+    "condClear": "Sonnig",
+    "condPartlyCloudy": "Leicht bewölkt",
+    "condCloudy": "Wolkig",
+    "condFog": "Neblig",
+    "condDrizzle": "Nieselregen",
+    "condRain": "Regen",
+    "condFreezing": "Gefrierender Regen",
+    "condSnow": "Schnee",
+    "condShowers": "Regenschauer",
+    "condSnowShowers": "Schneeschauer",
+    "condThunderstorm": "Gewitter"
+  },
+  "history": {
+    "title": "Geschichte, Bauwerk & Legenden",
+    "subtitle": "Von der ersten Holzbrücke über Kriege und Wiederaufbau bis zum bronzenen Brückenaffen: die bewegte Geschichte eines Wahrzeichens.",
+    "timeline": [
+      {
+        "period": "1284",
+        "title": "Die erste urkundlich erwähnte Brücke",
+        "text": "Bereits 1284 ist an dieser Stelle eine Neckarbrücke bezeugt. Die Holzbrücken jener Zeit hatten es schwer: Schon 1288 zerstörte ein Eisgang das Bauwerk – ein Schicksal, das auch viele Nachfolgebrücken ereilte."
+      },
+      {
+        "period": "1689–1693",
+        "title": "Der Pfälzische Erbfolgekrieg",
+        "text": "Im März 1689 sprengten französische Truppen unter General Mélac die damalige Brücke; 1693 verwüsteten sie die Stadt erneut. Rund zwei Jahrzehnte halfen Fähren und eine Schiffbrücke über den Fluss, bis 1706–1708 ein neuer Übergang entstand."
+      },
+      {
+        "period": "1786–1788",
+        "title": "Die Karl-Theodor-Brücke entsteht",
+        "text": "Kurfürst Karl Theodor erteilte Bauinspektor Mathias Mayer den Auftrag für den heutigen Bau. In nur zwei Jahren entstand eine rund 200 Meter lange Brücke mit neun Tonnengewölben, verkleidet mit rotem Sandstein – seither trägt sie offiziell den Namen ihres Bauherrn."
+      },
+      {
+        "period": "15.–18. Jh.",
+        "title": "Das Brückentor mit den Doppeltürmen",
+        "text": "Am südlichen Ende erheben sich die rund 28 Meter hohen Türme des Brückentors. Ihr Kern stammt aus der spätgotischen Stadtmauer des 15. Jahrhunderts, 1709/11 wurde das Tor barock überformt. Hier kassierte die Stadt den Brückenzoll – im Ernstfall schloss ein Falltor den Zugang."
+      },
+      {
+        "period": "29.03.1945",
+        "title": "Zerstörung im Zweiten Weltkrieg",
+        "text": "Kurz vor dem Einmarsch amerikanischer Truppen sprengten Pioniere der Wehrmacht die Neckarbrücken. Bei der Alten Brücke stürzten drei Bögen in den Fluss. Am 14. März 1946 begann der Wiederaufbau – am 26. Juli 1947 wurde die Brücke feierlich wiedereröffnet."
+      },
+      {
+        "period": "1979",
+        "title": "Der Brückenaffe kehrt zurück",
+        "text": "Schon im 17. Jahrhundert saß an der Brücke ein steinerner Affe mit Spiegel – eine spöttische Erinnerung daran, dass jeder, der staunend auf die Stadt blickt, selbst ein „alter Affe“ ist. Der 1689 zerstörte Affe wurde 1979 von Bildhauer Gernot Rumpf als Bronzeskulptur neu geschaffen; sein hohler Kopf lädt bis heute zu Fotos ein."
+      }
+    ],
+    "quote": "„Was thustu mich hie angaffen? Hastu nicht gesehen den alten Affen zu Heidelberg?“ – ein Spottreim, der seit dem 17. Jahrhundert zum Brückenaffen gehört.",
+    "factsTitle": "Die Brücke in Zahlen",
+    "facts": [
+      "200 Meter lang, 7 Meter breit und bis zu 10,4 Meter über dem Neckar.",
+      "9 Tonnengewölbe überspannen den Fluss; die Spannweiten reichen von 12,2 bis 22 Metern.",
+      "Der 2. und der 7. von 8 Pfeilern sind verbreitert – einst waren sie für Standbilder vorgesehen.",
+      "Das Äußere besteht aus rotem Sandstein, das Innere aus Bruchsteinmauerwerk.",
+      "Nur die beiden Landbögen wurden 1969/70 umgebaut – das historische Bild der Brücke blieb unverändert."
+    ]
+  },
+  "faq": {
+    "title": "Häufige Fragen zur Alten Brücke (Old Bridge Heidelberg)",
+    "subtitle": "Kurz und sachlich beantwortet – von der Lage über den Eintritt bis zu Tipps für deinen Besuch.",
+    "items": [
+      {
+        "q": "Wo genau liegt die Alte Brücke Heidelberg?",
+        "a": "Die Alte Brücke (Old Bridge Heidelberg) überspannt den Neckar am Rand der Heidelberger Altstadt in Baden-Württemberg, Deutschland. Am südlichen Ende steht das Brückentor mit seinen zwei Türmen direkt an der Altstadt; auf der gegenüberliegenden Seite führt der Weg hinauf zum Philosophenweg. Adresse für die Navigation: Alte Brücke, 69117 Heidelberg, Deutschland."
+      },
+      {
+        "q": "Ist der Besuch der Alten Brücke kostenlos?",
+        "a": "Ja. Die Alte Brücke ist eine öffentliche Fußgänger- und Radwegebrücke und kann rund um die Uhr kostenlos überquert werden – es gibt keinen Eintritt, kein Tor und keine saisonale Schließung."
+      },
+      {
+        "q": "Wann wurde die Alte Brücke gebaut?",
+        "a": "Die heutige Steinbrücke entstand 1786–1788 unter Kurfürst Karl Theodor und wird daher auch Karl-Theodor-Brücke genannt. Sie ersetzte ältere Holzbrücken an dieser Stelle, die bereits seit 1284 urkundlich belegt sind."
+      },
+      {
+        "q": "Kann man mit dem Auto über die Brücke fahren?",
+        "a": "Nein. Die Alte Brücke ist Fußgängern und Radfahrern vorbehalten. Der motorisierte Verkehr nutzt die benachbarten Straßenbrücken über den Neckar."
+      },
+      {
+        "q": "Was ist der Brückenaffe und wo steht er?",
+        "a": "Der Brückenaffe sitzt am Brückentor auf der Altstadtseite. Die Bronzefigur von 1979 erinnert an einen steinernen Affen aus dem 17. Jahrhundert, der neugierige Besucher verspottete. Sein hohler Kopf lädt bis heute zum Fotografieren ein."
+      },
+      {
+        "q": "Welcher Blick von der Alten Brücke ist am berühmtesten?",
+        "a": "Von der Brückenmitte hat man den klassischen Blick auf das Heidelberger Schloss und die Altstadt. Vom Philosophenweg auf der gegenüberliegenden Neckarseite bietet sich die berühmte Postkartenansicht mit Brücke, Altstadt und Schloss."
+      },
+      {
+        "q": "Was lässt sich mit einem Besuch der Alten Brücke verbinden?",
+        "a": "Die Brücke ist der ideale Ausgangspunkt: Schloss Heidelberg samt Bergbahn (ca. 8–15 Minuten), die Altstadt mit Hauptstraße und Heiliggeistkirche (5–10 Minuten) sowie der Philosophenweg auf der anderen Flussseite sind bequem zu Fuß erreichbar."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & weiterführende Informationen",
+    "subtitle": "Diese unabhängige Informationsseite stützt sich auf öffentlich zugängliche, überwiegend offizielle Quellen. Bitte prüfe aktuelle Angaben (Öffnungszeiten, Preise, Baumaßnahmen) vor deinem Besuch auf den offiziellen Portalen.",
+    "items": [
+      {
+        "label": "Heidelberg Marketing – Tourist-Information",
+        "desc": "Offizielle Tourismus-Organisation der Stadt Heidelberg mit praktischen Besucherinformationen (mehrsprachige Website).",
+        "url": "https://www.heidelberg-marketing.de/"
+      },
+      {
+        "label": "Stadt Heidelberg – Offizielle Website",
+        "desc": "Offizielles Stadtportal der Stadt Heidelberg mit Informationen zu Geschichte, Kultur und Denkmalschutz.",
+        "url": "https://www.heidelberg.de/"
+      },
+      {
+        "label": "Landesamt für Denkmalpflege Baden-Württemberg",
+        "desc": "Landesbehörde, die die Alte Brücke als Kulturdenkmal erfasst und dokumentiert.",
+        "url": "https://www.denkmalpflege-bw.de/"
+      },
+      {
+        "label": "Wikipedia: Alte Brücke (Heidelberg)",
+        "desc": "Ausführliche Brückengeschichte mit Einzelnachweisen und Literatur (deutschsprachiger Artikel).",
+        "url": "https://de.wikipedia.org/wiki/Alte_Br%C3%BCcke_(Heidelberg)"
+      },
+      {
+        "label": "Deutsche Digitale Bibliothek",
+        "desc": "Zentraler Zugang zu historischen Fotografien und Archivdokumenten rund um die Brücke.",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      },
+      {
+        "label": "Google Maps – Alte Brücke Heidelberg",
+        "desc": "Öffentliche Bewertungen (4,8 / über 18.000) und aktuelle Fotos von Besuchern zur Orientierung.",
+        "url": "https://maps.app.goo.gl/E6sARLKkqxeeVSDH7"
+      }
+    ],
+    "note": "Einige Links führen zu externen Websites, deren Inhalte von den jeweiligen Betreibern verantwortet werden. Diese Website ist ein unabhängiges, nicht-kommerzielles Informationsprojekt und steht mit keiner der genannten Stellen in Verbindung."
   }
 }

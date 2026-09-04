@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations, useLocale } from 'next-intl';
+import { homeHref as localizedHomeHref } from '@/lib/seo';
 import { useState, useEffect } from 'react';
 
 function CookieToggle({
@@ -49,11 +50,31 @@ function CookieToggle({
   );
 }
 
+type ConsentPrefs = { analytics: boolean; preferences: boolean; marketing: boolean };
+
+/** Pushes the visitor's saved choices into Google Consent Mode v2. */
+function applyConsentToGtag(prefs: ConsentPrefs) {
+  try {
+    const w = window as any;
+    if (typeof w.gtag === 'function') {
+      w.gtag('consent', 'update', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: prefs.analytics ? 'granted' : 'denied',
+        functionality_storage: prefs.preferences ? 'granted' : 'denied',
+      });
+    }
+  } catch {
+    /* consent reflection is non-critical */
+  }
+}
+
 export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
   const locale = useLocale();
-  const homeHref = locale === 'zh' ? '/zh' : `/${locale}`;
+  const homeHref = localizedHomeHref(locale);
 
   const [analytics, setAnalytics] = useState(false);
   const [preferences, setPreferences] = useState(true);
@@ -66,11 +87,23 @@ export default function CookieSettingsClient() {
       if (prefs.analytics) setAnalytics(true);
       if (prefs.preferences) setPreferences(true);
       if (prefs.marketing) setMarketing(true);
-    } catch {}
+      applyConsentToGtag({
+        analytics: !!prefs.analytics,
+        preferences: prefs.preferences !== false,
+        marketing: !!prefs.marketing,
+      });
+    } catch {
+      applyConsentToGtag({ analytics: false, preferences: true, marketing: false });
+    }
   }, []);
 
+  function persistConsent(next: { analytics: boolean; preferences: boolean; marketing: boolean }) {
+    localStorage.setItem('cookiePrefs', JSON.stringify(next));
+    applyConsentToGtag(next);
+  }
+
   function handleSave() {
-    localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, preferences, marketing }));
+    persistConsent({ analytics, preferences, marketing });
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }
@@ -79,7 +112,7 @@ export default function CookieSettingsClient() {
     setAnalytics(false);
     setPreferences(false);
     setMarketing(false);
-    localStorage.setItem('cookiePrefs', JSON.stringify({ analytics: false, preferences: false, marketing: false }));
+    persistConsent({ analytics: false, preferences: false, marketing: false });
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   }

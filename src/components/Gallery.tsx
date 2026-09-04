@@ -12,10 +12,15 @@ export default function Gallery() {
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
 
-  const photos = photoIndices.map((num, i) => ({
-    src: `/gallery/old-bridge-heidelberg (${num}).jpg`,
-    alt: captions?.[i] || `Old Bridge Heidelberg ${num}`,
-  }));
+  const photos = photoIndices.map((num, i) => {
+    const caption = captions?.[i] || `Old Bridge Heidelberg ${num}`;
+    return {
+      src: `/gallery/old-bridge-heidelberg (${num}).jpg`,
+      caption,
+      // Semantic alt text that binds the photo to the attraction entity.
+      alt: `${caption} · Old Bridge Heidelberg, Heidelberg, Germany`,
+    };
+  });
 
   const displayedPhotos = showAll ? photos : photos.slice(0, 8);
 
@@ -66,7 +71,7 @@ export default function Gallery() {
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {photo.caption}
                     </p>
                   </div>
                 </div>

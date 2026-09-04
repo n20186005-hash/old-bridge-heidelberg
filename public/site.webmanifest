@@ -1,0 +1,35 @@
+{
+  "name": "Old Bridge Heidelberg – Visitor Guide & History",
+  "short_name": "Old Bridge HD",
+  "description": "Independent visitor guide to the Old Bridge (Alte Brücke) in Heidelberg, Germany – history, practical tips, weather, photos and directions.",
+  "id": "/de/",
+  "start_url": "/de/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf8f4",
+  "theme_color": "#234d5c",
+  "lang": "de",
+  "dir": "ltr",
+  "categories": ["travel", "education"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

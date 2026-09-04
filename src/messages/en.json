@@ -1,10 +1,12 @@
 {
   "meta": {
-    "title": "Old Bridge Heidelberg | Alte Brücke Heidelberg",
-    "description": "Explore the complete guide to Old Bridge Heidelberg in Baden-Württemberg, Germany."
+    "title": "Old Bridge Heidelberg & Top Things to Do | Visiting Guide 2026",
+    "description": "Explore the iconic Heidelberg Old Bridge (Alte Brücke), castle views & top city attractions. Plan your trip with map, photo spots & local tips.",
+    "ogImageAlt": "Old Bridge Heidelberg – view over the River Neckar in Heidelberg, Germany"
   },
   "header": {
     "home": "Home",
+    "sights": "Things to Do",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
@@ -14,56 +16,57 @@
     "title": "Old Bridge Heidelberg",
     "subtitle": "Heidelberg · Germany",
     "rating": "4.8",
-    "reviewCount": "17,955",
-    "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "reviewCount": "18,345",
+    "hours": "Open 24 hours",
+    "openMaps": "View on Google Maps",
+    "imageAlt": "Old Bridge Heidelberg – main view over the River Neckar in Heidelberg, Germany"
   },
   "intro": {
-    "title": "Explore Old Bridge Heidelberg",
-    "description": "The Old Bridge (Alte Brücke Heidelberg) is a famous historical stone bridge over the Neckar River in Heidelberg, Baden-Württemberg, Germany. As one of Heidelberg's landmarks, it not only holds great historical value but also offers visitors the perfect vantage point to admire Heidelberg Castle and the old town.",
+    "title": "Discover the Old Bridge Heidelberg",
+    "description": "Welcome to Old Bridge Heidelberg – the historic Old Bridge (Alte Brücke) of Heidelberg, located in the heart of Heidelberg, Baden-Württemberg, Germany. As the city’s central hub for visitors, this famous stone bridge crosses the River Neckar and connects the Old Town with the Philosophers’ Walk. It is the ideal starting point for exploring Heidelberg Castle, the Old Town with Hauptstraße and the funicular to the Königstuhl. On the bridge you will find the Baroque bridge gate with its twin towers and the famous bronze bridge monkey – while the middle of the bridge offers one of the finest views over the river and the castle.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Visitor Tips",
       "items": [
-        "Free and open all day, visit anytime for a walk or photography",
-        "Early morning or late afternoon is recommended for the best lighting",
-        "Dress warmly as it can be windy on the bridge",
-        "Plenty of cafes and traditional German restaurants nearby"
+        "Free and accessible around the clock – open at any time for a stroll or photos",
+        "Best light early in the morning or late in the afternoon",
+        "It can be breezy on the bridge, so bring a light jacket",
+        "Many cafés and traditional German restaurants are located right in the Old Town"
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Historical Architecture: An iconic stone bridge over the Neckar River with a rich history and exquisite sculptures.",
-        "Perfect Vantage Point: Offers a perfect panoramic view of Heidelberg Castle and the old town.",
-        "Central Location: Adjacent to Heidelberg's old town, within walking distance to multiple surrounding attractions."
+        "Historic architecture: An iconic stone bridge over the River Neckar with rich history and beautiful sculptures.",
+        "Perfect viewpoint: Offers a stunning panorama of Heidelberg Castle and the Old Town.",
+        "Central location: Steps away from Heidelberg's Old Town with many attractions within walking distance."
       ]
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Jardim Luís de Camões",
+    "title": "Know Before You Go",
     "sections": [
       {
         "id": "history",
-        "title": "Memorial Significance",
-        "content": "This garden was established by the city of Leiria as an urban space to pay tribute to the Portuguese literary giant Luís de Camões, with his bronze statue acting as the centerpiece."
+        "title": "History",
+        "content": "The Old Bridge (Karl Theodor Bridge) was built between 1786 and 1788 under Elector Karl Theodor and is the oldest surviving Neckar bridge in Heidelberg. The famous bridge monkey at the Old Town gate tower is one of its best-known symbols."
       },
       {
         "id": "architecture",
-        "title": "Landscaping",
-        "content": "The garden features a delicate design with neatly trimmed greenery, a classical-style fountain, and relaxing benches that blend harmoniously with the surrounding urban architecture."
+        "title": "Architecture",
+        "content": "The bridge is made of red sandstone and has nine arches. On the Old Town side stands the distinctive bridge gate with two round white towers, which served as a prison until 1822."
       },
       {
         "id": "experience",
-        "title": "Relaxing Experience",
-        "content": "It is the perfect place to unwind after visiting the majestic Leiria Castle. You can sit on a bench, listen to the fountain, and experience the slow-paced lifestyle of Leiria."
+        "title": "Your Visit",
+        "content": "The Old Bridge is a public pedestrian and cycle crossing, free to use 24 hours a day. It connects the Old Town with the Philosophers' Walk and is the perfect starting point for a city tour."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Alte Brücke Heidelberg",
-    "type": "Attraction Type",
+    "officialNameValue": "Old Bridge Heidelberg",
+    "type": "Type",
     "typeValue": "Bridge",
     "country": "Country",
     "countryValue": "Germany",
@@ -71,203 +74,211 @@
     "cityValue": "Heidelberg",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "Alte Brücke, 69117 Heidelberg, Germany",
+    "addressValue": "Old Bridge, 69117 Heidelberg, Germany",
     "plusCode": "Plus Code",
     "plusCodeValue": "CP75+RR Heidelberg Germany"
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Entire Garden",
-    "outdoorTime": "Free and open all day, no ticketed indoor pavilions, no seasonal restrictions",
+    "outdoor": "Old Bridge (entire bridge)",
+    "outdoorTime": "Free access 24 hours a day – no admission, no seasonal closure",
     "lighthouse": "Nearby Attractions",
-    "summer": "Leiria Castle",
-    "summerTime": "Usually 09:30-17:30 (subject to official castle announcements)",
-    "winter": "Museum of Leiria",
-    "winterTime": "Usually 09:30-17:30 (Closed on Mondays)",
-    "warning": "Fountain & Statue Area",
-    "warningTime": "Open all day for viewing",
-    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and photography"
+    "summer": "Heidelberg Castle",
+    "summerTime": "Usually daily 09:00–18:00 (varies by season; check the official website for current times)",
+    "winter": "German Pharmacy Museum (at the castle)",
+    "winterTime": "Usually 10:00–17:30",
+    "warning": "Bridge Monkey & Bridge Towers",
+    "warningTime": "Open to visitors around the clock",
+    "tip": "The Old Bridge is quietest in the early morning and late afternoon – perfect for a stroll or photos"
   },
   "tickets": {
-    "title": "Ticket Information",
-    "outdoor": "Jardim Luís de Camões",
-    "outdoorPrice": "Free all day",
-    "lighthouse": "Nearby Paid Attractions",
-    "adults": "Leiria Castle",
-    "adultsPrice": "Requires an admission ticket",
-    "students": "Nearby Museums",
-    "studentsPrice": "Fees apply according to each venue's rules",
+    "title": "Tickets & Prices",
+    "outdoor": "Old Bridge (Karl Theodor Bridge)",
+    "outdoorPrice": "Free – open all day",
+    "lighthouse": "Paid Attractions Nearby",
+    "adults": "Heidelberg Castle",
+    "adultsPrice": "Admission required (check prices on the official website)",
+    "students": "Museums in the Old Town",
+    "studentsPrice": "Entry varies by venue, discounts available",
     "children": "Parking Fees",
-    "childrenPrice": "Paid street parking is available around the garden, a 1-2 minute walk away",
-    "card": "Transport Tip",
-    "cardPrice": "Located in the city center, walking distance to nearby dining and shopping areas"
+    "childrenPrice": "Paid parking garages around the Old Town (e.g. P12/P13), about 5–10 minutes' walk from the bridge",
+    "card": "Tip for Your Visit",
+    "cardPrice": "The bridge sits in the heart of the Old Town – cafés, restaurants and the Hauptstraße shopping mile are all within walking distance"
   },
   "transport": {
-    "title": "Transportation",
+    "title": "Getting There",
     "airport": "From the Airport",
-    "airportDesc": "Nearest International Airports: Lisbon LIS Airport (approx. 140 km, 1.5 hours drive), Porto OPO Airport (approx. 200 km, 2 hours drive).",
-    "selfDrive": "Driving",
-    "selfDriveDesc": "From Lisbon, take the A8 or A1 highway north directly to Leiria. Set your GPS to Largo 5 de Outubro 48, and find paid street parking nearby.",
+    "airportDesc": "The nearest international airports are Frankfurt (FRA, about 80 km, ~1 hour by train or car) and Stuttgart (STR, about 120 km, ~1.5 hours by car).",
+    "selfDrive": "By Car",
+    "selfDriveDesc": "From Frankfurt or Stuttgart you reach Heidelberg via the A5. The Old Town is car-free – use the parking garages P12 (Kornmarkt/castle) or P13 (Karlsplatz) and walk about 5–10 minutes to the Old Bridge.",
     "bus": "Public Transport",
-    "busDesc": "Direct intercity buses (Rede Expressos) and trains run from both Lisbon and Porto to Leiria. From the Leiria station, the garden is easily reachable on foot.",
-    "intercity": "Short-Distance Travel",
-    "intercityDesc": "Attractions in downtown Leiria are close together; Castelo de Leiria is just a 5-minute walk from the garden.",
-    "cycling": "Cycling",
-    "cyclingDesc": "The coastal areas around Leiria (such as Nazaré and São Pedro de Moel) are great for road cycling.",
+    "busDesc": "ICE/IC trains run directly from Frankfurt and Stuttgart to Heidelberg's main station. Tram and bus lines take you into the Old Town within minutes.",
+    "intercity": "Getting Around",
+    "intercityDesc": "The Old Town is compact: from the Old Bridge you can reach the castle funicular (Kornmarkt) and the Hauptstraße on foot within a few minutes.",
+    "cycling": "Cycling & Walking",
+    "cyclingDesc": "The Neckar riverside path and the Philosophers' Walk on the opposite bank are perfect for bike tours and hikes.",
     "tips": "Travel Tips",
-    "tipsDesc": "Leiria is centrally located in Portugal, close to the Atlantic coast, Óbidos Castle, and Batalha Monastery, making it an excellent hub for exploring the central region."
+    "tipsDesc": "Heidelberg is located in Baden-Württemberg and makes an ideal base for exploring the Neckar region, Mannheim and Schwetzingen Palace."
   },
   "route": {
-    "title": "Visiting Route",
-    "overview": "Heidelberg Old Town Walking Route",
+    "title": "Recommended Walking Route",
+    "overview": "A Heidelberg Old Town stroll starting at the Old Bridge",
     "steps": [
-      "Arrive at Jardim Luís de Camões to admire the Camões statue and fountain",
-      "Take a break on a garden bench and enjoy the urban greenery",
-      "Walk to Leiria's old town to explore local cafes and craft shops",
-      "Take a 5-minute walk up to the majestic Castelo de Leiria",
-      "Visit the nearby Leiria Cathedral or local museums",
-      "Taste traditional Central Portugal cuisine in the old town"
+      "Start at the Old Bridge and visit the famous bridge monkey at the Old Town gate",
+      "Stroll along the River Neckar and enjoy the view of the Old Town and the castle",
+      "Walk through the bridge gate into the Old Town and explore the Hauptstraße pedestrian zone with its cafés and shops",
+      "Continue to the Marktplatz with the Church of the Holy Spirit – a great spot for coffee or lunch",
+      "Take the historic funicular from Kornmarkt up to Heidelberg Castle; if you have time, ride on to the Königstuhl",
+      "Cross the Old Bridge to the Philosophers' Walk on the opposite bank – the finest panorama of the city at sunset"
     ],
     "supplements": [
-      "The garden is an open space, no reservations needed",
-      "Pay attention to parking meters and time limits on surrounding streets",
-      "Leiria Castle is located on a hill, requiring an uphill walk"
+      "The Old Bridge is a public foot and cycle path, free to use around the clock – no reservation needed.",
+      "There is little free parking in the Old Town – best to use one of the parking garages.",
+      "The path up to the castle leads over historic cobblestones – comfortable shoes are recommended."
     ],
-    "supplementsTitle": "Visiting Notes"
+    "supplementsTitle": "Visitor Notes"
   },
   "photoSpots": {
-    "title": "Photo Spots",
+    "title": "Best Photo Spots",
     "spots": [
       {
-        "name": "Old Bridge Statues",
-        "desc": "Capture the iconic bronze statues with the old town in the background"
+        "name": "The Bridge Monkey",
+        "desc": "Capture the famous monkey statue at the bridge tower with the Old Town in the background"
       },
       {
-        "name": "Fountain and Greenery",
-        "desc": "Use the water features and manicured shrubs as foregrounds for fresh garden shots"
+        "name": "Neckar & Old Town Skyline",
+        "desc": "The river and the red rooftops of the Old Town make the classic Heidelberg picture"
       },
       {
-        "name": "Relaxation Benches",
-        "desc": "Capture the laid-back daily life of the locals"
+        "name": "Bridge Gate & Towers",
+        "desc": "The distinctive round towers of the old bridge gate are an iconic photo subject"
       },
       {
-        "name": "Distant View of Heidelberg Castle",
-        "desc": "Look up at the majestic Heidelberg Castle from the bridge"
+        "name": "View of Heidelberg Castle",
+        "desc": "From the middle of the bridge, the castle frames the view of the Old Town"
       }
     ],
-    "tips": "Photography Tips",
-    "tipsContent": "Morning sunlight filtering through the leaves onto the statue creates the best lighting for photography."
+    "tips": "Photo Tip",
+    "tipsContent": "Early in the morning the light falls on the red sandstone facade – and the bridge is usually still quiet."
   },
   "hotels": {
-    "title": "Accommodation Suggestions",
+    "title": "Staying in Heidelberg",
     "hotels": [
       {
-        "name": "Downtown Boutique Hotels",
-        "desc": "Just steps away from the garden and castle, extremely convenient",
-        "price": "Ideal for those who love a city vibe"
+        "name": "Boutique Hotels in the Old Town",
+        "desc": "Just a few minutes' walk from the bridge and the castle funicular",
+        "price": "Ideal for those who love Heidelberg's atmosphere"
       },
       {
-        "name": "Old Town Cozy Apartments",
-        "desc": "Equipped with kitchens, surrounded by restaurants and supermarkets",
-        "price": "Great for families or extended stays"
+        "name": "Cosy Apartments on Hauptstraße",
+        "desc": "With kitchen, surrounded by restaurants and supermarkets",
+        "price": "Perfect for families or longer stays"
       },
       {
-        "name": "Coastal Resorts (e.g., near Nazaré)",
-        "desc": "About a 30-minute drive from Leiria, offering Atlantic ocean views",
-        "price": "Perfect for drivers seeking a beach holiday experience"
+        "name": "Hotels on the Neckar Riverside",
+        "desc": "With views of the river and the Philosophers' Walk, about 10–15 minutes' walk to the bridge",
+        "price": "A quiet stay with a beautiful view"
       }
     ],
-    "supplements": "Accommodation Notes",
-    "supplementsContent": "There are numerous highly-rated local restaurants around Heidelberg where you can taste traditional German cuisine.",
+    "supplements": "Accommodation Note",
+    "supplementsContent": "Heidelberg and its surroundings offer many highly rated restaurants with traditional German cuisine – from brewpubs to Baden specialities.",
     "supplementsTitle": "Local Cuisine"
   },
   "gallery": {
-    "title": "Stunning Photos",
-    "subtitle": "Charming Scenery of Old Bridge Heidelberg",
+    "title": "Old Bridge Photos",
+    "subtitle": "Beautiful views of the Old Bridge Heidelberg",
     "captions": [
-      "Camões Statue",
-      "Garden Fountain",
-      "Manicured Shrubs",
-      "Leiria Castle View",
-      "Shaded Walking Path",
-      "Urban Oasis",
-      "Leiria Old Town Streets",
-      "Local Cafe",
-      "Sunlit Bench",
-      "Garden Flowers",
-      "City Square",
-      "Portuguese Cobblestones",
-      "Garden at Dusk",
-      "Leiria Cathedral",
-      "Monument Details",
-      "Quiet Afternoon",
-      "Cityscape",
-      "Historical Architecture",
-      "Water Feature",
-      "Locals Relaxing"
+      "Bridge Monkey",
+      "View over the River Neckar",
+      "Stone arches of the Old Bridge",
+      "Heidelberg Castle in the distance",
+      "Philosophers' Walk",
+      "Neckar riverbank",
+      "Old Town lanes",
+      "Local café",
+      "People strolling on the bridge",
+      "River landscape",
+      "Market Square",
+      "Historic cobblestones",
+      "The Old Bridge at dusk",
+      "Church of the Holy Spirit",
+      "Sculptures on the bridge pier",
+      "A quiet afternoon",
+      "Old Town panorama",
+      "Red sandstone architecture",
+      "River cruise boat on the Neckar",
+      "Locals enjoying their leisure time"
     ],
-    "viewAll": "View more photos on Google Maps",
-    "showAllPhotos": "Show All Photos"
+    "viewAll": "See more photos on Google Maps",
+    "showAllPhotos": "Show all photos"
   },
   "reviews": {
     "title": "Visitor Reviews",
     "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
+    "moreReviews": "See more reviews on Google Maps",
     "items": [
       {
-        "name": "João Silva",
+        "name": "Mark Weber",
         "date": "2 months ago",
         "rating": 5,
-        "text": "A wonderful, well-preserved urban garden! The cobblestone paths and statues are full of history. Walking here is very relaxing. Highly recommend coming at sunset."
+        "text": "A beautifully preserved landmark! The stones and statues are full of history, and the view of the castle and the Neckar is priceless. Definitely come for sunset."
       },
       {
-        "name": "Maria Costa",
+        "name": "Julia Sanders",
         "date": "1 month ago",
         "rating": 5,
-        "text": "One of the most beautiful leisure spots in Leiria! The tranquility here is so relaxing, and the surrounding greenery is gorgeous. Be careful in summer as it can get hot, bring water and sunscreen."
+        "text": "The most beautiful place in Heidelberg! From the bridge monkey to the panorama of the Old Town – simply stunning. It can get breezy, so bring a jacket in winter."
       },
       {
-        "name": "Carlos Rodrigues",
+        "name": "Tom Baker",
         "date": "3 months ago",
         "rating": 4,
-        "text": "An amazing place. The garden isn't huge, but the location is perfect. Had a great traditional Portuguese meal at a nearby restaurant. The only issue is finding parking during peak season."
+        "text": "An impressive structure. The bridge itself is not long, but the location is perfect – you can reach the Old Town or the castle within minutes. Parking can take a while in high season."
       },
       {
-        "name": "Ana Martins",
-        "date": "Over 6 months ago",
+        "name": "Anna Walker",
+        "date": "over 6 months ago",
         "rating": 5,
-        "text": "A very romantic and charming place. We walked around here and the night view is absolutely stunning. Completely fell in love with it!"
+        "text": "So romantic! In the evening the illuminated bridge with the castle in the background is a dream. I completely fell in love with this city."
       },
       {
-        "name": "Pedro Santos",
+        "name": "Peter Hoffman",
         "date": "1 year ago",
         "rating": 5,
-        "text": "The scenery here really lifts your mood. You can see the exquisite statue blending with the wide square. The garden itself is charming with many cafes around."
+        "text": "The view instantly lifts your mood. From the bridge monkey to the river – everything is beautifully framed. Plenty of lovely cafés nearby."
       },
       {
-        "name": "Teresa Ferreira",
-        "date": "Over 6 months ago",
+        "name": "Stephanie Brown",
+        "date": "over 6 months ago",
         "rating": 4,
-        "text": "Well worth a visit! It's very easy to walk here from Leiria Castle. Recommend wearing flat shoes due to the cobblestone paths. Locals are friendly, great spots for photos."
+        "text": "Absolutely worth seeing! From the Old Town you reach the bridge quickly. Comfortable shoes are a must – there is cobblestone everywhere. Tons of great photo spots!"
       },
       {
-        "name": "Rui Almeida",
+        "name": "Lucas Fisher",
         "date": "3 months ago",
         "rating": 5,
-        "text": "Feels like stepping back in time! Every path and fountain has its story. Resting on a bench makes you feel like time has stopped. A must-visit in Leiria."
+        "text": "It feels like walking through history! Every arch and every statue has a story to tell. An absolute must on any visit to Heidelberg."
       },
       {
-        "name": "Catarina Gomes",
+        "name": "Christina Keller",
         "date": "2 months ago",
         "rating": 5,
-        "text": "Beautiful beyond words. Whether it's the Camões statue or the green vegetation, you won't want to leave. Highly recommend sitting by the fountain, it feels amazing."
+        "text": "More beautiful than any description. Whether the bridge monkey or the view upstream along the Neckar – you simply don't want to move on. The sunset from the middle of the bridge is unforgettable."
       }
     ]
   },
   "mapSection": {
-    "title": "Transportation Guide",
-    "subtitle": "Largo 5 de Outubro 48, 2400-137 Leiria, Portugal",
-    "openMaps": "View on Google Maps"
+    "title": "Location & How to Visit Old Bridge in Heidelberg",
+    "subtitle": "Old Bridge, 69117 Heidelberg, Germany",
+    "openMaps": "View on Google Maps",
+    "regionLine": "Old Bridge Heidelberg → Heidelberg → Baden-Württemberg → Germany",
+    "nearbyTitle": "Landmarks around the Old Bridge",
+    "nearbyLine": "When visiting Old Bridge Heidelberg, you can easily explore surrounding historical landmarks and points of interest, including Heidelberg Castle and the Philosophers’ Walk – both within a short walk of the bridge.",
+    "tourismTitle": "Official tourism information",
+    "tourismName": "Heidelberg Marketing – official tourism website of the City of Heidelberg",
+    "phoneLabel": "Tourist-Information Heidelberg:",
+    "phoneValue": "+49 6221 58 44 44",
+    "location": "Geographic hierarchy"
   },
   "footer": {
     "rights": "© 2026 Old Bridge Heidelberg. All rights reserved.",
@@ -281,7 +292,7 @@
         "url": "https://www.germany.travel/en/home.html"
       },
       "bw_tourism": {
-        "name": "Baden-Württemberg Tourism",
+        "name": "Tourism Baden-Württemberg",
         "url": "https://www.visit-bw.com/de"
       },
       "digital_library": {
@@ -289,7 +300,7 @@
         "url": "https://www.deutsche-digitale-bibliothek.de/"
       },
       "bundesregierung": {
-        "name": "Federal Government of Germany",
+        "name": "German Federal Government",
         "url": "https://www.bundesregierung.de/breg-de"
       },
       "denkmalpflege": {
@@ -297,75 +308,94 @@
         "url": "https://www.denkmalpflege-bw.de/"
       },
       "heidelberg_denkmal": {
-        "name": "Heidelberg Monument Protection",
+        "name": "City of Heidelberg – Monument Protection",
         "url": "https://www.heidelberg.de/HD/Leben/Denkmalschutz.html"
       },
       "bauforschung": {
-        "name": "Building Research Database BW",
+        "name": "BW Building Research Database",
         "url": "https://www.bauforschung-bw.de/"
       },
       "auswaertiges": {
         "name": "Federal Foreign Office",
         "url": "https://www.auswaertiges-amt.de/"
+      },
+      "heidelberg_tourism": {
+        "name": "Heidelberg Marketing – Official Tourism Website",
+        "url": "https://www.heidelberg-marketing.de/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party information project. We are not affiliated with local authorities or other official organisations.",
+    "photoCredits": "Photo credits: all photographs displayed on this website remain the property of their respective owners and are protected by copyright. They are shown for informational purposes only."
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "Privacy policy for oldbridgeheidelberg.com: what data we collect, how we use it and what rights you have."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "description": "Terms of service for the independent travel information website Old Bridge Heidelberg."
+    },
+    "cookies": {
+      "title": "Cookie Settings",
+      "description": "Manage your cookie preferences for oldbridgeheidelberg.com."
+    }
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Last updated: May 2026",
     "sections": [
       {
-        "heading": "1. Information We Collect",
-        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+        "heading": "1. What Data We Collect",
+        "content": "We only collect data that is necessary to provide our services. This may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, as well as information you voluntarily provide via contact forms or email."
       },
       {
-        "heading": "2. How We Use Your Information",
-        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+        "heading": "2. How We Use Your Data",
+        "content": "We use the collected information to: improve the content and user experience of the website, analyse traffic and usage patterns, respond to enquiries and comply with our legal obligations."
       },
       {
         "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis) and Unsplash (for images). These services are subject to their own privacy policies."
       },
       {
         "heading": "4. Your Rights",
-        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+        "content": "Under the GDPR and applicable regulations you have the right to: access your personal data, request rectification or deletion, object to processing and lodge a complaint with a supervisory authority."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: May 2026",
+    "lastUpdated": "Last updated: May 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "content": "By accessing and using this website you agree to these Terms of Service."
       },
       {
         "heading": "2. Use of Content",
-        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+        "content": "All content on this website is provided for information purposes only. We are an independent travel-information website run by a third party and are not affiliated with any attractions, authorities or commercial operators."
       },
       {
         "heading": "3. Accuracy of Information",
-        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+        "content": "We strive to provide accurate and up-to-date information but cannot guarantee its completeness or correctness. Opening hours, conditions and offers may change without notice. Please verify important details through official channels before your trip."
       },
       {
         "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under licence. Google Maps data is used in accordance with Google's terms of service."
       },
       {
         "heading": "5. Limitation of Liability",
-        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+        "content": "This website is provided without warranty. We accept no liability for any damages arising from the use of the information provided here, including travel decisions based on this content."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last updated: May 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
-      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
-      "badge": "Always Active"
+      "description": "These cookies are required for the website to function and cannot be switched off.",
+      "badge": "Always active"
     },
     "analytics": {
       "title": "Analytics Cookies",
@@ -374,39 +404,324 @@
         {
           "name": "Google Analytics",
           "status": "Active",
-          "description": "It collects anonymous information about how visitors use our website."
+          "description": "Collects anonymous information about how visitors use our website."
         }
       ]
     },
     "marketing": {
       "title": "Marketing Cookies",
-      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "description": "They are used to show relevant advertising and measure the effectiveness of campaigns.",
       "items": [
         {
-          "name": "Personalized Ads",
+          "name": "Personalised Advertising",
           "status": "Inactive",
-          "description": "It can show you relevant ads based on your interests."
+          "description": "May show you relevant advertisements based on your interests."
         }
       ]
     },
     "save": "Save Preferences",
-    "saved": "Settings saved!",
+    "saved": "Preferences saved!",
     "preferences": {
       "items": [
         {
           "name": "User Preferences",
           "status": "Active",
-          "description": "Saves your language preferences and website settings."
+          "description": "Stores your language and website preferences."
         }
       ],
       "title": "Preference Cookies",
       "description": "They remember your settings, such as language and theme preferences."
     },
-    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
-    "rejectAll": "Reject All"
+    "consentManagement": "Consent management: you can change your cookie settings at any time. Please note that disabling certain cookies may affect the functionality of the website.",
+    "rejectAll": "Reject all"
   },
   "officialManagement": {
-    "title": "About Jardim Luís de Camões",
-    "text": "Jardim Luís de Camões is an important memorial garden in the center of Leiria, managed and maintained by the Leiria City Council (Câmara Municipal de Leiria)."
+    "title": "About the Old Bridge Heidelberg",
+    "text": "The Old Bridge (Karl Theodor Bridge) was built between 1786 and 1788 and is one of the best-known landmarks of Heidelberg. As a historic structure, it is maintained and preserved by the city of Heidelberg. This website is an independent information project."
+  },
+  "topSights": {
+    "title": "More Top Things to Do in Heidelberg",
+    "subtitle": "The Old Bridge is the perfect starting point – reach these highlights within minutes on foot or by funicular.",
+    "items": [
+      {
+        "name": "Heidelberg Castle",
+        "distance": "About 15 min walk or 8 min by funicular",
+        "desc": "The famous castle ruin towers over the Old Town and offers the best view of the Old Bridge."
+      },
+      {
+        "name": "Königstuhl & Funicular Railway",
+        "distance": "Continue by funicular from the castle",
+        "desc": "Heidelberg's 568 m house mountain with panoramic views over the Neckar valley and the Rhine plain."
+      },
+      {
+        "name": "Philosophers' Walk",
+        "distance": "About 20 min walk across the bridge",
+        "desc": "The famous riverside path on the opposite bank with postcard views of the Old Town."
+      },
+      {
+        "name": "Old Town & Hauptstraße",
+        "distance": "Right at the Old Town end of the bridge",
+        "desc": "The pedestrian zone with half-timbered houses, cafés and shops – one of the longest in Europe."
+      }
+    ],
+    "cta": "Browse all top attractions",
+    "ctaHint": "with distances, entry info & visitor tips"
+  },
+  "attractions": {
+    "meta": {
+      "title": "Things to Do in Heidelberg: Top Attractions & Tips 2026",
+      "description": "The best attractions in Heidelberg at a glance: Heidelberg Castle, Königstuhl, Philosophers' Walk, Old Town & more – with distances from the Old Bridge and visitor tips."
+    },
+    "badge": "Heidelberg Travel Guide",
+    "title": "Top Things to Do in Heidelberg Around the Old Bridge",
+    "intro": [
+      "Heidelberg is one of Germany's most beautiful cities – and the Old Bridge sits right in the centre of its most famous sights. From here you can reach Heidelberg Castle, the Philosophers' Walk and the Old Town within a short walk.",
+      "This guide lists the most important attractions in Heidelberg with distances from the Old Bridge, notes on admission and opening hours, and practical tips for your visit."
+    ],
+    "itemsTitle": "Heidelberg's Highlights in Detail",
+    "items": [
+      {
+        "id": "schloss",
+        "name": "Heidelberg Castle",
+        "distance": "About 15 min uphill walk or 8 min by funicular",
+        "description": "Heidelberg Castle is one of the world's most famous castle ruins and the city's landmark. From the castle garden and the terrace you get the iconic view down onto the Old Bridge and the Old Town. Inside, don't miss the Great Tun (the world's largest wine barrel), the German Pharmacy Museum and the lavish Renaissance apartments."
+      },
+      {
+        "id": "koenigstuhl",
+        "name": "Königstuhl & Funicular Railway",
+        "distance": "About 10 min more by funicular from the castle",
+        "description": "At 568 m, the Königstuhl is the highest mountain in the region and offers some of the finest viewpoints over Heidelberg. The historic funicular has been running since 1890 in two sections from Kornmarkt via the castle up to the summit. At the top, a wide panorama over the Neckar valley, the Odenwald forest and the Rhine plain awaits – especially spectacular at sunset."
+      },
+      {
+        "id": "philosophenweg",
+        "name": "Philosophers' Walk",
+        "distance": "About 20 min walk across the bridge",
+        "description": "The Philosophers' Walk runs along the wooded slope on the opposite bank of the Neckar and is considered one of Germany's most beautiful promenades. It is named after the philosophers of Heidelberg University who once strolled here. It offers the most famous view of Heidelberg: the Old Town, the castle and the Old Bridge from the classic postcard angle."
+      },
+      {
+        "id": "altstadt",
+        "name": "Old Town & Hauptstraße",
+        "distance": "Right at the Old Town end of the bridge",
+        "description": "Heidelberg's Old Town with its Hauptstraße pedestrian zone is home to one of the longest shopping streets in Europe. Half-timbered houses, boutiques, cafés and beer gardens line the way from the Karlstor gate to University Square. In between you will find the Marktplatz with the Church of the Holy Spirit and plenty of traditional restaurants serving German cuisine."
+      },
+      {
+        "id": "heiliggeistkirche",
+        "name": "Church of the Holy Spirit",
+        "distance": "About 5 min walk from the bridge",
+        "description": "The late-Gothic Church of the Holy Spirit on Marktplatz is the largest church in Heidelberg. It took over 150 years to build and once housed the famous Bibliotheca Palatina, whose books are now scattered around the world. A lively book market regularly takes place in front of the church."
+      },
+      {
+        "id": "universitaet",
+        "name": "Old University & Student Jail",
+        "distance": "About 7 min walk",
+        "description": "Heidelberg University was founded in 1386 and is the oldest university in Germany. At University Square you can visit the Student Jail, a historic student prison from the 18th century whose walls are covered with graffiti left by former students. The Old Assembly Hall (Alte Aula) is also worth a look."
+      }
+    ],
+    "tips": {
+      "title": "Practical Tips for Your Visit",
+      "list": [
+        "Early mornings are the quietest time at the castle and the Philosophers' Walk – ideal for photos without the crowds.",
+        "Castle and funicular are best combined in half a day; combination tickets save you queuing at the ticket office.",
+        "Most attractions are within walking distance. Comfortable shoes are recommended for the castle hill and the Philosophers' Walk.",
+        "Allow plenty of time: the viewpoints invite you to linger and the Old Town has plenty of culinary delights."
+      ]
+    },
+    "bridgeTitle": "Ready to Start at the Old Bridge?",
+    "bridgeText": "Find all the details on opening hours, best photo spots, history and getting to the Old Bridge Heidelberg on the homepage.",
+    "bridgeCta": "Go to the Old Bridge Heidelberg"
+  },
+  "practicalInfo": {
+    "title": "Practical Tips for Your Visit",
+    "subtitle": "Toilets, parking, shopping, dining and more – compiled neutrally, without advertising for individual businesses.",
+    "groups": [
+      {
+        "id": "wc",
+        "title": "Public Toilets",
+        "items": [
+          "Public facilities can be found in the Old Town and near the bridgehead; many cafés and restaurants also let guests use theirs.",
+          "Toilets are rare along the Philosophers' Path and in the castle grounds – plan ahead before your walk."
+        ]
+      },
+      {
+        "id": "parking",
+        "title": "Parking & Getting There",
+        "items": [
+          "There is virtually no parking right at the bridge. Use the Old Town car parks or park-and-ride lots on the edge of town, 5–15 minutes' walk away.",
+          "Trams and buses run from the main station into the city centre; the bridge is a short walk from there.",
+          "Motorhomes and coaches have dedicated parking areas outside the Old Town."
+        ]
+      },
+      {
+        "id": "dining",
+        "title": "Food & Drink",
+        "items": [
+          "Around the bridge you will find cafés, bakeries, ice-cream parlours and restaurants serving German and international cuisine.",
+          "For a picnic with a view of the bridge and castle, the Neckar meadows are ideal – self-catered and free of charge."
+        ]
+      },
+      {
+        "id": "stay",
+        "title": "Where to Stay",
+        "items": [
+          "From Old Town hotels to guesthouses, holiday flats and hostels – there is something for every budget.",
+          "Accommodation on the north bank of the Neckar is often quieter and faces the Old Town and castle."
+        ]
+      },
+      {
+        "id": "daily",
+        "title": "Shopping & Everyday Needs",
+        "items": [
+          "Supermarkets, drugstores, souvenir shops, pharmacies and ATMs line the pedestrian zone on Hauptstraße.",
+          "Good to know: in Germany most shops close on Sundays – plan your errands for weekdays."
+        ]
+      },
+      {
+        "id": "fuel",
+        "title": "Fuel & Charging",
+        "items": [
+          "Petrol stations are located on the main roads out of town and at the edge of the city – not in the pedestrian zone.",
+          "Charging points for electric cars and e-bikes are available at car parks and public parking spaces across the city."
+        ]
+      }
+    ],
+    "note": "As an independent, non-profit information project we deliberately do not name individual businesses. Please check opening hours, facilities and prices on site."
+  },
+  "weather": {
+    "title": "Weather in Heidelberg",
+    "subtitle": "Current conditions at the Old Bridge and the outlook for the coming days – handy for planning photos, walks and picnics.",
+    "now": "Now",
+    "feels": "Feels like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "today": "Today",
+    "forecast": "The next few days",
+    "pop": "Chance of rain",
+    "condClear": "Sunny",
+    "condPartlyCloudy": "Partly cloudy",
+    "condCloudy": "Cloudy",
+    "condFog": "Foggy",
+    "condDrizzle": "Drizzle",
+    "condRain": "Rain",
+    "condFreezing": "Freezing rain",
+    "condSnow": "Snow",
+    "condShowers": "Rain showers",
+    "condSnowShowers": "Snow showers",
+    "condThunderstorm": "Thunderstorm"
+  },
+  "history": {
+    "title": "History, Architecture & Legends",
+    "subtitle": "From the first wooden bridge through war and rebuilding to today's bronze bridge monkey: the eventful story of a landmark.",
+    "timeline": [
+      {
+        "period": "1284",
+        "title": "The first documented bridge",
+        "text": "A Neckar bridge at this spot is first documented in 1284. Wooden bridges of the time had a hard life: as early as 1288 an ice drift destroyed the structure – a fate shared by many of its successors."
+      },
+      {
+        "period": "1689–1693",
+        "title": "The War of the Palatine Succession",
+        "text": "In March 1689 French troops under General Mélac blew up the then bridge; in 1693 they ravaged the city once more. For about two decades ferries and a pontoon bridge crossed the Neckar until a new bridge was built in 1706–1708."
+      },
+      {
+        "period": "1786–1788",
+        "title": "The Karl Theodor Bridge rises",
+        "text": "Elector Karl Theodor commissioned building inspector Mathias Mayer to construct today's bridge. In just two years a roughly 200-metre stone bridge with nine barrel vaults was built, clad in red sandstone – and it still bears the name of its patron."
+      },
+      {
+        "period": "15th–18th c.",
+        "title": "The Bridge Gate with its twin towers",
+        "text": "The nearly 28-metre twin towers of the bridge gate rise at the southern end. Their core dates from the late-Gothic town wall of the 15th century; the gate was remodelled in the Baroque style in 1709/11. Here the city collected the bridge toll – and in times of danger a portcullis sealed off the entrance."
+      },
+      {
+        "period": "29 Mar 1945",
+        "title": "Destruction in the Second World War",
+        "text": "Shortly before American troops entered Heidelberg, Wehrmacht engineers blew up the Neckar bridges. Three arches of the Old Bridge collapsed into the river. Reconstruction began on 14 March 1946 – the rebuilt bridge was ceremonially reopened on 26 July 1947."
+      },
+      {
+        "period": "1979",
+        "title": "The return of the bridge monkey",
+        "text": "As early as the 17th century a stone monkey holding a mirror sat on the bridge – a mocking reminder that anyone gazing in wonder at the town is just another \"old monkey\". The monkey, destroyed in 1689, was recreated in 1979 as a bronze sculpture by Gernot Rumpf; its hollow head still invites visitors to pose for photos."
+      }
+    ],
+    "quote": "\"Why do you gape at me? Haven't you seen the old monkey of Heidelberg?\" – a mocking rhyme that has accompanied the bridge monkey since the 17th century.",
+    "factsTitle": "The bridge in numbers",
+    "facts": [
+      "200 metres long, 7 metres wide and up to 10.4 metres above the Neckar.",
+      "Nine barrel vaults span the river; individual spans range from 12.2 to 22 metres.",
+      "The 2nd and 7th of 8 pillars are wider – they were once intended to carry statues.",
+      "The exterior is faced in red sandstone, the interior is rubble masonry.",
+      "Only the two land arches were rebuilt in 1969/70 – the historic appearance of the bridge is unchanged."
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions – Old Bridge Heidelberg",
+    "subtitle": "Short, factual answers – from the exact location and admission to tips for combining your visit.",
+    "items": [
+      {
+        "q": "Where exactly is the Old Bridge Heidelberg located?",
+        "a": "Old Bridge Heidelberg crosses the River Neckar at the edge of Heidelberg’s Old Town in Baden-Württemberg, Germany. The bridge gate with its twin towers sits at the southern end next to the Old Town; on the opposite bank a path leads up to the Philosophers’ Walk. Address for navigation: Alte Brücke, 69117 Heidelberg, Germany."
+      },
+      {
+        "q": "Is it free to visit the Old Bridge?",
+        "a": "Yes. The Old Bridge is a public pedestrian and cycle bridge and can be crossed free of charge at any time – there is no admission, no gate and no seasonal closure."
+      },
+      {
+        "q": "When was the Old Bridge built?",
+        "a": "The present stone bridge was built in 1786–1788 under Elector Karl Theodor and is therefore also called the Karl-Theodor-Brücke. It replaced earlier wooden bridges on this site that are documented as early as 1284."
+      },
+      {
+        "q": "Can you drive across the Old Bridge?",
+        "a": "No. The bridge is open to pedestrians and cyclists only. Motorised traffic uses the neighbouring road bridges across the Neckar."
+      },
+      {
+        "q": "What is the bridge monkey and where is it?",
+        "a": "The bronze bridge monkey sits at the bridge gate on the Old Town side. The 1979 figure recalls a stone monkey from the 17th century that mocked curious onlookers; visitors still put their head into its hollow head for the traditional photo."
+      },
+      {
+        "q": "Which view from the Old Bridge is the most famous?",
+        "a": "From the middle of the bridge you have the classic view of Heidelberg Castle and the Old Town. From the Philosophers’ Walk on the opposite bank you get the famous postcard panorama of the bridge, the Old Town and the castle."
+      },
+      {
+        "q": "What can I combine with a visit to the Old Bridge?",
+        "a": "The bridge is the ideal starting point: Heidelberg Castle with the funicular (about 8–15 minutes), the Old Town with Hauptstraße and the Church of the Holy Spirit (5–10 minutes) and the Philosophers’ Walk on the other bank are all easy to reach on foot."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Further Reading",
+    "subtitle": "This independent information page is based on publicly accessible, predominantly official sources. Please always verify current details (opening hours, prices, works) on the official portals before your visit.",
+    "items": [
+      {
+        "label": "Heidelberg Tourism (Heidelberg Marketing)",
+        "desc": "The city of Heidelberg’s official tourism organisation with practical visitor information (multilingual website).",
+        "url": "https://www.heidelberg-marketing.de/"
+      },
+      {
+        "label": "City of Heidelberg – Official Website",
+        "desc": "Official city portal with information on Heidelberg’s history, culture and monument protection.",
+        "url": "https://www.heidelberg.de/"
+      },
+      {
+        "label": "State Office for the Preservation of Monuments Baden-Württemberg",
+        "desc": "Regional monument authority that records and documents the Old Bridge as a listed structure.",
+        "url": "https://www.denkmalpflege-bw.de/"
+      },
+      {
+        "label": "Wikipedia – Old Bridge (Alte Brücke), Heidelberg",
+        "desc": "Detailed history of the bridge with references and bibliography (article available in German).",
+        "url": "https://de.wikipedia.org/wiki/Alte_Br%C3%BCcke_(Heidelberg)"
+      },
+      {
+        "label": "German Digital Library",
+        "desc": "Central portal to historical photographs and archive documents of the bridge.",
+        "url": "https://www.deutsche-digitale-bibliothek.de/"
+      },
+      {
+        "label": "Google Maps – Old Bridge Heidelberg listing",
+        "desc": "Public visitor rating (4.8, over 18,000 reviews) and recent visitor photos for orientation.",
+        "url": "https://maps.app.goo.gl/E6sARLKkqxeeVSDH7"
+      }
+    ],
+    "note": "Some links lead to external websites whose content is the responsibility of their respective operators. This website is an independent, non-commercial information project and is not affiliated with any of these organisations."
   }
 }

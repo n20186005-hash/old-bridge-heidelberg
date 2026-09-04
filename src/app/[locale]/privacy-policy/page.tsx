@@ -1,6 +1,16 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
+import {
+  SITE_NAME,
+  SITE_URL,
+  absLocalizedUrl,
+  localizedAlternates,
+  ogLocale,
+  homeHref,
+} from '@/lib/seo';
 import type { Metadata } from 'next';
+
+const PAGE_SUFFIX = '/privacy-policy';
 
 export async function generateMetadata({
   params,
@@ -8,24 +18,25 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const localePrefix = locale === 'it' ? '' : locale === 'en' ? '/en' : locale === 'fr' ? '/fr' : '/zh-Hant';
-  const itUrl = `${baseUrl}/privacy-policy`;
-  const enUrl = `${baseUrl}/en/privacy-policy`;
-  const frUrl = `${baseUrl}/fr/privacy-policy`;
-  const zhUrl = `${baseUrl}/zh-Hant/privacy-policy`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const messages = (await import(`@/messages/${locale}.json`)).default;
+  const legal = (messages?.legal as any)?.privacy;
+  const title = legal?.title || messages?.privacy?.title || 'Privacy Policy';
+  const description =
+    legal?.description || messages?.privacy?.lastUpdated || '';
+  const selfUrl = absLocalizedUrl(locale, PAGE_SUFFIX);
 
   return {
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+    metadataBase: new URL(SITE_URL),
+    title: `${title} | ${SITE_NAME}`,
+    description,
+    alternates: localizedAlternates(locale, PAGE_SUFFIX),
+    openGraph: {
+      title: `${title} | ${SITE_NAME}`,
+      description,
+      url: selfUrl,
+      siteName: SITE_NAME,
+      locale: ogLocale(locale),
+      type: 'website',
     },
   };
 }
@@ -35,14 +46,13 @@ function PrivacyContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
   const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
         <a
-          href={homeHref}
+          href={homeHref(locale)}
           className="inline-flex items-center gap-2 text-sm font-medium mb-10 transition-colors"
           style={{ color: 'var(--accent)' }}
         >

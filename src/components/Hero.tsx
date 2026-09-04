@@ -9,8 +9,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/old-bridge-heidelberg (1).jpg"
-          alt="Old Bridge Heidelberg"
+          alt={t('imageAlt') || t('title')}
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

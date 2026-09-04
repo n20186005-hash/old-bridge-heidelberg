@@ -2,7 +2,23 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
-import type { Metadata } from 'next';
+import {
+  SITE_NAME,
+  SITE_URL,
+  absLocalizedUrl,
+  localizedAlternates,
+  ogLocale,
+} from '@/lib/seo';
+import { SITE_OG_IMAGE } from '@/lib/entity';
+import type { Metadata, Viewport } from 'next';
+
+// PWA / brand colours (matches globals.css palette).
+const THEME_COLOR = '#234d5c';
+const MANIFEST = '/site.webmanifest';
+
+export const viewport: Viewport = {
+  themeColor: THEME_COLOR,
+};
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -15,45 +31,36 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://oldbridgeheidelberg.com';
-
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const ptUrl = `${baseUrl}/pt`;
-  const mwlUrl = `${baseUrl}/mwl`;
-  
-  let selfUrl = zhUrl;
-  if (locale === 'en') selfUrl = enUrl;
-  else if (locale === 'pt') selfUrl = ptUrl;
-  else if (locale === 'mwl') selfUrl = mwlUrl;
-
-  const localeMap: Record<string, string> = {
-    'zh': 'zh_CN',
-    'en': 'en_US',
-    'pt': 'pt_PT',
-    'mwl': 'mwl',
-  };
+  const selfUrl = absLocalizedUrl(locale);
+  const ogImageAlt = messages.meta.ogImageAlt || messages.meta.title;
 
   return {
+    metadataBase: new URL(SITE_URL),
     title: messages.meta.title,
     description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'pt': ptUrl,
-        'mwl': mwlUrl,
-        'x-default': zhUrl,
-      } as Record<string, string>,
+    applicationName: SITE_NAME,
+    manifest: MANIFEST,
+    icons: {
+      icon: [
+        { url: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
+        { url: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
+      ],
+      apple: [{ url: '/icons/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
     },
+    appleWebApp: {
+      capable: true,
+      title: SITE_NAME,
+      statusBarStyle: 'default',
+    },
+    alternates: localizedAlternates(locale),
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Old Bridge Heidelberg",
-      locale: localeMap[locale] || 'zh_CN',
+      siteName: SITE_NAME,
+      locale: ogLocale(locale),
       type: 'website',
+      images: [{ url: SITE_OG_IMAGE, alt: ogImageAlt }],
     },
   };
 }
@@ -77,15 +84,42 @@ export default async function LocaleLayout({
   const langMap: Record<string, string> = {
     'zh': 'zh-CN',
     'en': 'en',
-    'pt': 'pt',
-    'mwl': 'mwl',
+    'de': 'de',
   };
 
   return (
-    <html lang={langMap[locale] || 'zh-CN'} suppressHydrationWarning>
+    <html lang={langMap[locale] || 'de'} suppressHydrationWarning>
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
+        {/* Google Analytics 4 – G-HXM22WWPKP (Consent Mode v2: analytics storage is
+            denied by default and only enabled once the visitor grants the
+            Analytics cookie in /cookie-settings). */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('consent', 'default', {
+                ad_storage: 'denied',
+                ad_user_data: 'denied',
+                ad_personalization: 'denied',
+                analytics_storage: 'denied',
+                functionality_storage: 'granted',
+                personalization_storage: 'denied',
+                security_storage: 'granted',
+                wait_for_update: 500
+              });
+              try {
+                var prefs = JSON.parse(localStorage.getItem('cookiePrefs') || 'null');
+                if (prefs && prefs.analytics === true) {
+                  gtag('consent', 'update', { analytics_storage: 'granted' });
+                }
+              } catch (e) {}
+              gtag('js', new Date());
+              gtag('config', 'G-HXM22WWPKP', { anonymize_ip: true });
+            `,
+          }}
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -105,6 +139,18 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
+        {/* Register the static-export service worker for PWA / offline support. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if ('serviceWorker' in navigator) {
+                window.addEventListener('load', function () {
+                  navigator.serviceWorker.register('/sw.js').catch(function () {});
+                });
+              }
+            `,
+          }}
+        />
       </body>
     </html>
   );
