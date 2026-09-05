@@ -32,11 +32,9 @@ export const FALLBACK_LOCALE: SiteLocale = 'de';
 /**
  * Path suffix of the attractions hub page, identical across locales.
  *
- * NOTE: the site is built with `output: 'export'` where the next-intl
- * middleware does not run, so pathnames cannot differ per locale (a
- * middleware would be required to translate them at request time). Keep the
- * segment identical to the route folder name so the generated static files
- * match the public URLs.
+ * NOTE: keep the segment identical to the route folder name. The site deploys
+ * to Cloudflare via @opennextjs/cloudflare and the pathname is shared across
+ * locales; a locale-translating pathname would require a middleware rewrite.
  */
 export const SIGHTS_PATH = '/attractions';
 
