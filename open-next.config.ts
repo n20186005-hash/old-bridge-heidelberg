@@ -2,12 +2,15 @@
 import { defineCloudflareConfig } from "@opennextjs/cloudflare";
 // import r2IncrementalCache from "@opennextjs/cloudflare/overrides/incremental-cache/r2-incremental-cache";
 
-export default defineCloudflareConfig({
-	// Build Next.js with `next build` directly instead of `npm run build`.
-	// Without this, OpenNext runs `<package-manager> run build`, which would
-	// re-invoke this same `opennextjs-cloudflare build` script infinitely.
+export default {
+	// `defineCloudflareConfig` only forwards a fixed set of keys, so `buildCommand`
+	// must be merged at the top level (spread) rather than passed as an argument.
+	// Without it OpenNext runs `<package-manager> run build`, which re-invokes this
+	// same `opennextjs-cloudflare build` script and loops forever.
+	...defineCloudflareConfig({
+		// For best results consider enabling R2 caching
+		// See https://opennext.js.org/cloudflare/caching for more details
+		// incrementalCache: r2IncrementalCache
+	}),
 	buildCommand: "next build",
-	// For best results consider enabling R2 caching
-	// See https://opennext.js.org/cloudflare/caching for more details
-	// incrementalCache: r2IncrementalCache
-});
+};
